@@ -3,7 +3,7 @@ import requests
 import time
 
 BASE = "https://machinehack.com/api/public/sandbox/v1"
-KEY = "dri_a5b27ce67d5ff93bc8015fb1243d3ed3f6ce93c90f8f8703"
+KEY = os.environ.get("DRI_KEY", "")
 HEADERS = {
     "Authorization": f"Bearer {KEY}",
     "Content-Type": "application/json",

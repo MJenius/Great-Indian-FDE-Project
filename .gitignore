@@ -60,6 +60,8 @@ ipython_config.py
 
 # Environments
 .env
+.env.*
+!.env.example
 .venv
 env/
 venv/
@@ -82,7 +84,6 @@ Thumbs.db
 *.log
 
 # Sensitive environment files / credentials
-.env.*
 *.key
 *.pem
 secrets/
