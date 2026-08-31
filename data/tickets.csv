@@ -1,0 +1,19 @@
+ticket_id,raised_by,department,priority,subject,body,status,created_date
+FIX-3401,Sunita Kulkarni,Accounts Payable,High,Possible double payment,"Two invoices from the same vendor look identical against one PO. Different invoice numbers, same value. Please advise before Friday payment run.",In Progress,2026-06-02
+FIX-3402,Dinesh Agarwal,Procurement,Medium,Vendor code confusion,"We seem to have the same supplier under two codes, one V- and one older entry in caps. POs and invoices are landing on different codes.",Open,2026-06-06
+FIX-3407,Gurpreet Singh,Sales,High,Which discount slab applies,Distributor quoting our 2019 policy for a Rs 7.2 lakh order. My team says the 2023 policy applies. Both PDFs are on The Vault. Need a ruling.,Open,2026-06-10
+FIX-3411,R. Murugan,Coimbatore Ops,Medium,FlowTech warranty claims,"Customer claiming 24 months on an FT pump. Our standard policy says 18 from dispatch. There is an old addendum floating around, unsigned.",In Progress,2026-06-14
+FIX-3415,Priya Nair,CRM & Digital,Medium,Duplicate customer records,At least a handful of distributors exist twice — once as legacy C- records and once in SalesTrack with slightly different names. Renewal mailers going out twice.,Open,2026-06-18
+FIX-3418,Mehul Shah,Vadodara Plant,Low,Spares billed in boxes,"Stores GRN shows quantity mismatch on a spares invoice. Vendor bills in boxes of ten, our PO is in numbers. Value tallies, count does not.",Open,2026-06-22
+FIX-3422,Sunita Kulkarni,Accounts Payable,High,GST short-charged on invoices,A few vendor invoices compute GST at the wrong rate. Need list of affected invoices this quarter for debit notes.,In Progress,2026-06-26
+FIX-3425,Joseph Varghese,Stores & Logistics,Medium,Invoice cites unknown PO,Received an invoice referencing a PO number that does not exist in DRISHTI. Gate entry made on physical challan. Holding payment.,Open,2026-06-30
+FIX-3428,Farida Contractor,Compliance,Medium,MSME declarations missing,Vendor master has MSME flags but declarations are not on file for several suppliers. Audit is in November.,Open,2026-07-04
+FIX-3430,Rohit Malhotra,Finance,High,Freight terms dispute,Distributor refusing freight charges on a Rs 3 lakh order citing our old FOR-destination clause. Which policy governs orders after October 2023?,In Progress,2026-07-08
+FIX-3433,Suresh Iyer,Systems,Low,DRISHTI price master outdated,Some SKUs still carry the 2019 list price in DRISHTI. Sales team quoting from it by mistake.,Open,2026-07-12
+FIX-3436,Karthik Rao,Coimbatore Ops,Medium,FT SKU mapping,FlowTech SKUs never mapped to DRI part codes after the acquisition. Same physical product exists under two SKUs.,Open,2026-07-16
+FIX-3440,Gurpreet Singh,Sales,Low,Credit days for Gold tier,New joiner asking whether Gold distributors get 45 or 30 days. Old timers say 45. Policy PDF says otherwise.,In Progress,2026-07-20
+FIX-3444,Dinesh Agarwal,Procurement,Medium,New vendor stuck at onboarding,Casting supplier waiting three weeks. Which documents and approvals are pending per SOP? Annual spend projected at Rs 14 lakh.,Open,2026-07-24
+FIX-3447,Priya Nair,CRM & Digital,High,Migration cutover list,Need the exact list of customers not yet migrated to SalesTrack so we can plan the last wave before Diwali.,Open,2026-07-28
+FIX-3451,Sunita Kulkarni,Accounts Payable,Medium,Rate higher than PO,"Vendor billed 6 percent above PO rate, says steel went up. Do we pay or raise debit note? Need all such cases flagged.",In Progress,2026-08-01
+FIX-3455,Mehul Shah,Vadodara Plant,Low,Trial PO limit query,Can I place a Rs 3.5 lakh first order on a newly onboarded vendor or does the trial cap apply?,Open,2026-08-05
+FIX-3458,Anjali Deshmukh,MD Office,High,One number for the board,I want one dashboard number: how many open invoice exceptions do we have and what is the value at risk. Today it takes three people two days.,Open,2026-08-09

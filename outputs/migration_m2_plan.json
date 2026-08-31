@@ -1,0 +1,146 @@
+{
+  "task": "M2",
+  "dry_run": true,
+  "price_actions": [],
+  "flowtech_actions": [
+    {
+      "flowtech_sku": "FT-1400",
+      "normalized_description": "3 HP End-Suction Centrifugal Pump",
+      "candidate_dri_skus": [
+        "CP-160"
+      ],
+      "selected_dri_sku": "CP-160",
+      "status": "UNIQUE_MATCH",
+      "reason": "Unique match to DRI SKU CP-160 (matching description and 2023 price \u20b977,280.00)",
+      "action_type": "PATCH"
+    },
+    {
+      "flowtech_sku": "FT-1407",
+      "normalized_description": "1 HP Monoblock Centrifugal Pump",
+      "candidate_dri_skus": [
+        "CP-163"
+      ],
+      "selected_dri_sku": "CP-163",
+      "status": "UNIQUE_MATCH",
+      "reason": "Unique match to DRI SKU CP-163 (matching description and 2023 price \u20b9119,610.00)",
+      "action_type": "PATCH"
+    },
+    {
+      "flowtech_sku": "FT-1414",
+      "normalized_description": "10 HP Process Centrifugal Pump",
+      "candidate_dri_skus": [
+        "CP-107"
+      ],
+      "selected_dri_sku": "CP-107",
+      "status": "UNIQUE_MATCH",
+      "reason": "Unique match to DRI SKU CP-107 (matching description and 2023 price \u20b991,480.00)",
+      "action_type": "PATCH"
+    },
+    {
+      "flowtech_sku": "FT-1421",
+      "normalized_description": "15 HP Process Centrifugal Pump",
+      "candidate_dri_skus": [
+        "CP-172"
+      ],
+      "selected_dri_sku": "CP-172",
+      "status": "UNIQUE_MATCH",
+      "reason": "Unique match to DRI SKU CP-172 (matching description and 2023 price \u20b9136,810.00)",
+      "action_type": "PATCH"
+    },
+    {
+      "flowtech_sku": "FT-1428",
+      "normalized_description": "5 HP Dewatering Submersible Pump",
+      "candidate_dri_skus": [
+        "SM-127"
+      ],
+      "selected_dri_sku": "SM-127",
+      "status": "UNIQUE_MATCH",
+      "reason": "Unique match to DRI SKU SM-127 (matching description and 2023 price \u20b9106,130.00)",
+      "action_type": "PATCH"
+    },
+    {
+      "flowtech_sku": "FT-1435",
+      "normalized_description": "15 HP Process Centrifugal Pump",
+      "candidate_dri_skus": [
+        "CP-111"
+      ],
+      "selected_dri_sku": "CP-111",
+      "status": "UNIQUE_MATCH",
+      "reason": "Unique match to DRI SKU CP-111 (matching description and 2023 price \u20b920,490.00)",
+      "action_type": "PATCH"
+    },
+    {
+      "flowtech_sku": "FT-1442",
+      "normalized_description": "3 HP Openwell Submersible Pump",
+      "candidate_dri_skus": [],
+      "selected_dri_sku": null,
+      "status": "REVIEW",
+      "reason": "Missing 2023 list price; cannot verify deterministic mapping",
+      "action_type": "NOOP"
+    },
+    {
+      "flowtech_sku": "FT-1449",
+      "normalized_description": "3 HP End-Suction Centrifugal Pump",
+      "candidate_dri_skus": [
+        "CP-122"
+      ],
+      "selected_dri_sku": "CP-122",
+      "status": "UNIQUE_MATCH",
+      "reason": "Unique match to DRI SKU CP-122 (matching description and 2023 price \u20b9130,460.00)",
+      "action_type": "PATCH"
+    },
+    {
+      "flowtech_sku": "FT-1456",
+      "normalized_description": "3 HP Openwell Submersible Pump",
+      "candidate_dri_skus": [
+        "SM-135"
+      ],
+      "selected_dri_sku": "SM-135",
+      "status": "UNIQUE_MATCH",
+      "reason": "Unique match to DRI SKU SM-135 (matching description and 2023 price \u20b944,910.00)",
+      "action_type": "PATCH"
+    },
+    {
+      "flowtech_sku": "FT-1463",
+      "normalized_description": "5 HP Dewatering Submersible Pump",
+      "candidate_dri_skus": [
+        "SM-108"
+      ],
+      "selected_dri_sku": "SM-108",
+      "status": "UNIQUE_MATCH",
+      "reason": "Unique match to DRI SKU SM-108 (matching description and 2023 price \u20b9174,600.00)",
+      "action_type": "PATCH"
+    },
+    {
+      "flowtech_sku": "FT-1470",
+      "normalized_description": "15 HP Process Centrifugal Pump",
+      "candidate_dri_skus": [
+        "CP-172"
+      ],
+      "selected_dri_sku": "CP-172",
+      "status": "UNIQUE_MATCH",
+      "reason": "Unique match to DRI SKU CP-172 (matching description and 2023 price \u20b9136,810.00)",
+      "action_type": "PATCH"
+    },
+    {
+      "flowtech_sku": "FT-1477",
+      "normalized_description": "7.5 HP Sewage Submersible Pump",
+      "candidate_dri_skus": [
+        "SM-139"
+      ],
+      "selected_dri_sku": "SM-139",
+      "status": "UNIQUE_MATCH",
+      "reason": "Unique match to DRI SKU SM-139 (matching description and 2023 price \u20b9116,960.00)",
+      "action_type": "PATCH"
+    }
+  ],
+  "salestrack_actions": [],
+  "metadata": {
+    "total_flowtech_products": 12,
+    "unique_matches": 11,
+    "ambiguous_matches": 0,
+    "no_matches": 0,
+    "review_cases": 1,
+    "proposed_patch_count": 11
+  }
+}

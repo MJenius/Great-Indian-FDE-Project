@@ -1,0 +1,121 @@
+sku,description,family,uom,list_price_2019,list_price_2023
+CP-103,1 HP Monoblock Centrifugal Pump,CP,Nos,,114580.0
+CP-105,10 HP Process Centrifugal Pump,CP,Nos,167820.0,184240.0
+CP-107,10 HP Process Centrifugal Pump,CP,Nos,79920.0,91480.0
+CP-108,5 HP End-Suction Centrifugal Pump,CP,Nos,184020.0,201140.0
+CP-110,1 HP Monoblock Centrifugal Pump,CP,Nos,211270.0,231320.0
+CP-111,15 HP Process Centrifugal Pump,CP,Nos,18330.0,20490.0
+CP-114,0.5 HP Monoblock Centrifugal Pump,CP,Nos,143820.0,162690.0
+CP-117,3 HP End-Suction Centrifugal Pump,CP,Nos,74010.0,80790.0
+CP-119,3 HP End-Suction Centrifugal Pump,CP,Nos,,198620.0
+CP-122,3 HP End-Suction Centrifugal Pump,CP,Nos,119720.0,130460.0
+CP-125,0.5 HP Monoblock Centrifugal Pump,CP,Nos,229900.0,269740.0
+CP-128,7.5 HP Split-Case Centrifugal Pump,CP,Nos,135100.0,
+CP-129,5 HP End-Suction Centrifugal Pump,CP,Nos,102610.0,117240.0
+CP-131,20 HP Multistage Centrifugal Pump,CP,Nos,116530.0,126650.0
+CP-134,20 HP Multistage Centrifugal Pump,CP,Nos,226730.0,251610.0
+CP-136,5 HP End-Suction Centrifugal Pump,CP,Nos,208920.0,242720.0
+CP-137,5 HP End-Suction Centrifugal Pump,CP,Nos,237540.0,263540.0
+CP-140,10 HP Process Centrifugal Pump,CP,Nos,165560.0,181550.0
+CP-143,15 HP Process Centrifugal Pump,CP,Nos,137100.0,150920.0
+CP-146,7.5 HP Split-Case Centrifugal Pump,CP,Nos,76530.0,89280.0
+CP-147,3 HP End-Suction Centrifugal Pump,CP,Nos,181160.0,210590.0
+CP-149,0.5 HP Monoblock Centrifugal Pump,CP,Nos,237060.0,271110.0
+CP-152,7.5 HP Split-Case Centrifugal Pump,CP,Nos,132070.0,150050.0
+CP-155,15 HP Process Centrifugal Pump,CP,Nos,202500.0,231140.0
+CP-158,10 HP Process Centrifugal Pump,CP,Nos,66960.0,75140.0
+CP-159,0.5 HP Monoblock Centrifugal Pump,CP,Nos,142150.0,158890.0
+CP-160,3 HP End-Suction Centrifugal Pump,CP,Nos,70420.0,77280.0
+CP-162,1 HP Monoblock Centrifugal Pump,CP,Nos,131900.0,147380.0
+CP-163,1 HP Monoblock Centrifugal Pump,CP,Nos,106250.0,119610.0
+CP-165,10 HP Process Centrifugal Pump,CP,Nos,,77960.0
+CP-168,5 HP End-Suction Centrifugal Pump,CP,Nos,51450.0,58790.0
+CP-171,5 HP End-Suction Centrifugal Pump,CP,Nos,208890.0,232720.0
+CP-172,15 HP Process Centrifugal Pump,CP,Nos,116430.0,136810.0
+CP-173,20 HP Multistage Centrifugal Pump,CP,Nos,38240.0,43920.0
+SM-102,5 HP Dewatering Submersible Pump,SM,Nos,31690.0,35730.0
+SM-103,5 HP Dewatering Submersible Pump,SM,Nos,89650.0,97440.0
+SM-104,3 HP Openwell Submersible Pump,SM,Nos,77310.0,84800.0
+SM-106,1 HP Borewell Submersible Pump,SM,Nos,144610.0,162460.0
+SM-108,5 HP Dewatering Submersible Pump,SM,Nos,160440.0,174600.0
+SM-111,2 HP Borewell Submersible Pump,SM,Nos,158950.0,176610.0
+SM-114,3 HP Openwell Submersible Pump,SM,Nos,88210.0,95570.0
+SM-116,7.5 HP Sewage Submersible Pump,SM,Nos,138680.0,161830.0
+SM-118,1 HP Borewell Submersible Pump,SM,Nos,47750.0,55460.0
+SM-121,3 HP Openwell Submersible Pump,SM,Nos,60990.0,71470.0
+SM-124,5 HP Dewatering Submersible Pump,SM,Nos,167530.0,191620.0
+SM-127,5 HP Dewatering Submersible Pump,SM,Nos,94960.0,106130.0
+SM-130,3 HP Openwell Submersible Pump,SM,Nos,93560.0,
+SM-132,5 HP Dewatering Submersible Pump,SM,Nos,138210.0,
+SM-134,7.5 HP Sewage Submersible Pump,SM,Nos,28960.0,31340.0
+SM-135,3 HP Openwell Submersible Pump,SM,Nos,40350.0,44910.0
+SM-136,3 HP Openwell Submersible Pump,SM,Nos,54590.0,
+SM-139,7.5 HP Sewage Submersible Pump,SM,Nos,107270.0,116960.0
+GV-101,"2"" CI Class 125 Gate Valve",GV,Nos,12130.0,13230.0
+GV-102,"6"" CS Class 150 Gate Valve",GV,Nos,31930.0,34710.0
+GV-103,"4"" CS Class 150 Gate Valve",GV,Nos,6170.0,
+GV-105,"2"" CI Class 125 Gate Valve",GV,Nos,36950.0,41960.0
+GV-107,"8"" SS Class 300 Gate Valve",GV,Nos,13020.0,14410.0
+GV-109,"6"" CS Class 150 Gate Valve",GV,Nos,28860.0,31370.0
+GV-111,"2"" CI Class 125 Gate Valve",GV,Nos,,28140.0
+GV-112,"3"" CI Class 125 Gate Valve",GV,Nos,17650.0,19540.0
+GV-113,"2"" CI Class 125 Gate Valve",GV,Nos,13400.0,
+GV-114,"2"" CI Class 125 Gate Valve",GV,Nos,19080.0,20750.0
+GV-116,"4"" CS Class 150 Gate Valve",GV,Nos,23420.0,25510.0
+GV-117,"3"" CI Class 125 Gate Valve",GV,Nos,12700.0,14430.0
+GV-119,"3"" CI Class 125 Gate Valve",GV,Nos,22680.0,26280.0
+GV-122,"4"" CS Class 150 Gate Valve",GV,Nos,10680.0,11660.0
+GV-123,"8"" SS Class 300 Gate Valve",GV,Nos,8160.0,8960.0
+GV-124,"8"" SS Class 300 Gate Valve",GV,Nos,25230.0,27970.0
+GV-126,"2"" CI Class 125 Gate Valve",GV,Nos,34020.0,37510.0
+GV-128,"2"" CI Class 125 Gate Valve",GV,Nos,6750.0,7600.0
+GV-129,"6"" CS Class 150 Gate Valve",GV,Nos,12830.0,14190.0
+GV-131,"2"" CI Class 125 Gate Valve",GV,Nos,11930.0,13040.0
+GV-132,"8"" SS Class 300 Gate Valve",GV,Nos,12210.0,13720.0
+GV-133,"2"" CI Class 125 Gate Valve",GV,Nos,,2200.0
+GV-135,"8"" SS Class 300 Gate Valve",GV,Nos,20360.0,23050.0
+GV-136,"6"" CS Class 150 Gate Valve",GV,Nos,2480.0,2890.0
+GV-139,"8"" SS Class 300 Gate Valve",GV,Nos,17610.0,20120.0
+GV-141,"2"" CI Class 125 Gate Valve",GV,Nos,22550.0,25540.0
+BV-103,"3"" Wafer Type Butterfly Valve",BV,Nos,,24450.0
+BV-106,"3"" Wafer Type Butterfly Valve",BV,Nos,19630.0,22130.0
+BV-109,"4"" Wafer Type Butterfly Valve",BV,Nos,29390.0,34270.0
+BV-111,"3"" Wafer Type Butterfly Valve",BV,Nos,8150.0,8970.0
+BV-112,"4"" Wafer Type Butterfly Valve",BV,Nos,2380.0,2800.0
+BV-113,"8"" Lug Type Butterfly Valve",BV,Nos,22800.0,25310.0
+BV-115,"4"" Wafer Type Butterfly Valve",BV,Nos,18330.0,20160.0
+BV-118,"6"" Lug Type Butterfly Valve",BV,Nos,17940.0,20450.0
+BV-120,"6"" Lug Type Butterfly Valve",BV,Nos,31340.0,34600.0
+BV-123,"4"" Wafer Type Butterfly Valve",BV,Nos,3940.0,4330.0
+BV-124,"8"" Lug Type Butterfly Valve",BV,Nos,23430.0,25830.0
+BV-125,"3"" Wafer Type Butterfly Valve",BV,Nos,30320.0,35340.0
+BV-128,"3"" Wafer Type Butterfly Valve",BV,Nos,2620.0,3050.0
+BV-130,"3"" Wafer Type Butterfly Valve",BV,Nos,28570.0,32320.0
+SP-103,Impeller Kit Spares Kit,SP,Nos,,9040.0
+SP-105,Wear Ring Set Spares Kit,SP,Nos,9750.0,11420.0
+SP-107,Gasket Set Spares Kit,SP,Nos,310.0,340.0
+SP-109,Coupling Kit Spares Kit,SP,Nos,5600.0,6340.0
+SP-110,Mechanical Seal Kit Spares Kit,SP,Nos,,3650.0
+SP-113,Mechanical Seal Kit Spares Kit,SP,Nos,4540.0,5250.0
+SP-114,Wear Ring Set Spares Kit,SP,Nos,800.0,870.0
+SP-115,Mechanical Seal Kit Spares Kit,SP,Nos,370.0,420.0
+SP-117,Impeller Kit Spares Kit,SP,Nos,9250.0,10170.0
+SP-118,Coupling Kit Spares Kit,SP,Nos,610.0,690.0
+SP-120,Wear Ring Set Spares Kit,SP,Nos,5470.0,6200.0
+SP-122,Mechanical Seal Kit Spares Kit,SP,Nos,10260.0,12000.0
+SP-123,Mechanical Seal Kit Spares Kit,SP,Nos,210.0,230.0
+SP-125,Gasket Set Spares Kit,SP,Nos,220.0,240.0
+SP-126,Bearing & Sleeve Kit Spares Kit,SP,Nos,9100.0,10710.0
+SP-128,Impeller Kit Spares Kit,SP,Nos,2260.0,2570.0
+FT-1400,3 HP End-Suction Centrifugal Pump (FlowTech),CP,Nos,70420.0,77280.0
+FT-1407,1 HP Monoblock Centrifugal Pump (FlowTech),CP,Nos,106250.0,119610.0
+FT-1414,10 HP Process Centrifugal Pump (FlowTech),CP,Nos,79920.0,91480.0
+FT-1421,15 HP Process Centrifugal Pump (FlowTech),CP,Nos,116430.0,136810.0
+FT-1428,5 HP Dewatering Submersible Pump (FlowTech),SM,Nos,94960.0,106130.0
+FT-1435,15 HP Process Centrifugal Pump (FlowTech),CP,Nos,18330.0,20490.0
+FT-1442,3 HP Openwell Submersible Pump (FlowTech),SM,Nos,54590.0,
+FT-1449,3 HP End-Suction Centrifugal Pump (FlowTech),CP,Nos,119720.0,130460.0
+FT-1456,3 HP Openwell Submersible Pump (FlowTech),SM,Nos,40350.0,44910.0
+FT-1463,5 HP Dewatering Submersible Pump (FlowTech),SM,Nos,160440.0,174600.0
+FT-1470,15 HP Process Centrifugal Pump (FlowTech) (FlowTech),CP,Nos,116430.0,136810.0
+FT-1477,7.5 HP Sewage Submersible Pump (FlowTech),SM,Nos,107270.0,116960.0

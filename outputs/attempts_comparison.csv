@@ -1,0 +1,13 @@
+qid,governing_source,attempt_001_score_0.8333,attempt_002_score_0.7500,attempt_003_score_0.7500,attempt_004_score_0.7500,attempt_005_final
+K-01,PP-2023,10%,10%,10%,10%,10%
+K-02,PP-2023,30 days from the date of invoice,30 days,30 days from the date of invoice,30 days from the date of invoice,30 days from the date of invoice
+K-03,PP-2023,Buyer (all despatches are ex-works irrespective of order value),Buyer,Buyer,Buyer (ex-works),Buyer
+K-04,WRP-2020,24 months from despatch (under Addendum A for pre-acquisition stock),24 months from despatch,24 months from despatch,24 months from despatch,24 months from despatch until existing stock is exhausted
+K-05,VOS-7,"GST registration certificate, cancelled cheque, and MSME declaration (where applicable)","GST registration certificate, cancelled cheque, MSME declaration","GST registration certificate, cancelled cheque, and MSME declaration (where applicable)","GST registration certificate, cancelled cheque, and MSME declaration (where applicable)","GST registration certificate, cancelled cheque, and MSME declaration (where applicable)"
+K-06,VOS-7,"Rs 2,00,000 (capped at Rs 2,00,000)","Rs 2,00,000","Rs 2,00,000","Rs 2,00,000","Rs 2,00,000"
+K-07,VOS-7,"CFO (projected annual spend above Rs 10,00,000)",CFO,CFO,CFO,CFO
+K-08,PP-2023,Nil (0%),Nil,Nil,Nil,Nil
+K-09,WRP-2020,10% of invoice value (returns accepted within 30 days of despatch for unused goods in original packing),10%,10% of invoice value,10% of invoice value,10% of invoice value
+K-10,PP-2023,15 days minimum written notice,15 days,15 days written notice,15 days written notice,minimum of 15 days written notice
+K-11,WRP-2020,"June 2026 (whichever earlier: 12 months from commissioning falls in June 2026, before 18 months from despatch in July 2026)",June 2026,June 2026,June 2026,June 2026
+K-12,PP-2023,60 days from the date of invoice,60 days,60 days from the date of invoice,60 days from the date of invoice,60 days from the date of invoice

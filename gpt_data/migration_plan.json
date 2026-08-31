@@ -1,0 +1,1010 @@
+{
+  "M1_price_updates": [
+    {
+      "sku": "CP-103",
+      "action": "PATCH",
+      "drishti_price": 114580.0
+    },
+    {
+      "sku": "CP-105",
+      "action": "PATCH",
+      "drishti_price": 184240.0
+    },
+    {
+      "sku": "CP-107",
+      "action": "PATCH",
+      "drishti_price": 91480.0
+    },
+    {
+      "sku": "CP-108",
+      "action": "PATCH",
+      "drishti_price": 201140.0
+    },
+    {
+      "sku": "CP-110",
+      "action": "PATCH",
+      "drishti_price": 231320.0
+    },
+    {
+      "sku": "CP-111",
+      "action": "PATCH",
+      "drishti_price": 20490.0
+    },
+    {
+      "sku": "CP-114",
+      "action": "PATCH",
+      "drishti_price": 162690.0
+    },
+    {
+      "sku": "CP-117",
+      "action": "PATCH",
+      "drishti_price": 80790.0
+    },
+    {
+      "sku": "CP-119",
+      "action": "PATCH",
+      "drishti_price": 198620.0
+    },
+    {
+      "sku": "CP-122",
+      "action": "PATCH",
+      "drishti_price": 130460.0
+    },
+    {
+      "sku": "CP-125",
+      "action": "PATCH",
+      "drishti_price": 269740.0
+    },
+    {
+      "sku": "CP-129",
+      "action": "PATCH",
+      "drishti_price": 117240.0
+    },
+    {
+      "sku": "CP-131",
+      "action": "PATCH",
+      "drishti_price": 126650.0
+    },
+    {
+      "sku": "CP-134",
+      "action": "PATCH",
+      "drishti_price": 251610.0
+    },
+    {
+      "sku": "CP-136",
+      "action": "PATCH",
+      "drishti_price": 242720.0
+    },
+    {
+      "sku": "CP-137",
+      "action": "PATCH",
+      "drishti_price": 263540.0
+    },
+    {
+      "sku": "CP-140",
+      "action": "PATCH",
+      "drishti_price": 181550.0
+    },
+    {
+      "sku": "CP-143",
+      "action": "PATCH",
+      "drishti_price": 150920.0
+    },
+    {
+      "sku": "CP-146",
+      "action": "PATCH",
+      "drishti_price": 89280.0
+    },
+    {
+      "sku": "CP-147",
+      "action": "PATCH",
+      "drishti_price": 210590.0
+    },
+    {
+      "sku": "CP-149",
+      "action": "PATCH",
+      "drishti_price": 271110.0
+    },
+    {
+      "sku": "CP-152",
+      "action": "PATCH",
+      "drishti_price": 150050.0
+    },
+    {
+      "sku": "CP-155",
+      "action": "PATCH",
+      "drishti_price": 231140.0
+    },
+    {
+      "sku": "CP-158",
+      "action": "PATCH",
+      "drishti_price": 75140.0
+    },
+    {
+      "sku": "CP-159",
+      "action": "PATCH",
+      "drishti_price": 158890.0
+    },
+    {
+      "sku": "CP-160",
+      "action": "PATCH",
+      "drishti_price": 77280.0
+    },
+    {
+      "sku": "CP-162",
+      "action": "PATCH",
+      "drishti_price": 147380.0
+    },
+    {
+      "sku": "CP-163",
+      "action": "PATCH",
+      "drishti_price": 119610.0
+    },
+    {
+      "sku": "CP-165",
+      "action": "PATCH",
+      "drishti_price": 77960.0
+    },
+    {
+      "sku": "CP-168",
+      "action": "PATCH",
+      "drishti_price": 58790.0
+    },
+    {
+      "sku": "CP-171",
+      "action": "PATCH",
+      "drishti_price": 232720.0
+    },
+    {
+      "sku": "CP-172",
+      "action": "PATCH",
+      "drishti_price": 136810.0
+    },
+    {
+      "sku": "CP-173",
+      "action": "PATCH",
+      "drishti_price": 43920.0
+    },
+    {
+      "sku": "SM-102",
+      "action": "PATCH",
+      "drishti_price": 35730.0
+    },
+    {
+      "sku": "SM-103",
+      "action": "PATCH",
+      "drishti_price": 97440.0
+    },
+    {
+      "sku": "SM-104",
+      "action": "PATCH",
+      "drishti_price": 84800.0
+    },
+    {
+      "sku": "SM-106",
+      "action": "PATCH",
+      "drishti_price": 162460.0
+    },
+    {
+      "sku": "SM-108",
+      "action": "PATCH",
+      "drishti_price": 174600.0
+    },
+    {
+      "sku": "SM-111",
+      "action": "PATCH",
+      "drishti_price": 176610.0
+    },
+    {
+      "sku": "SM-114",
+      "action": "PATCH",
+      "drishti_price": 95570.0
+    },
+    {
+      "sku": "SM-116",
+      "action": "PATCH",
+      "drishti_price": 161830.0
+    },
+    {
+      "sku": "SM-118",
+      "action": "PATCH",
+      "drishti_price": 55460.0
+    },
+    {
+      "sku": "SM-121",
+      "action": "PATCH",
+      "drishti_price": 71470.0
+    },
+    {
+      "sku": "SM-124",
+      "action": "PATCH",
+      "drishti_price": 191620.0
+    },
+    {
+      "sku": "SM-127",
+      "action": "PATCH",
+      "drishti_price": 106130.0
+    },
+    {
+      "sku": "SM-134",
+      "action": "PATCH",
+      "drishti_price": 31340.0
+    },
+    {
+      "sku": "SM-135",
+      "action": "PATCH",
+      "drishti_price": 44910.0
+    },
+    {
+      "sku": "SM-139",
+      "action": "PATCH",
+      "drishti_price": 116960.0
+    },
+    {
+      "sku": "GV-101",
+      "action": "PATCH",
+      "drishti_price": 13230.0
+    },
+    {
+      "sku": "GV-102",
+      "action": "PATCH",
+      "drishti_price": 34710.0
+    },
+    {
+      "sku": "GV-105",
+      "action": "PATCH",
+      "drishti_price": 41960.0
+    },
+    {
+      "sku": "GV-107",
+      "action": "PATCH",
+      "drishti_price": 14410.0
+    },
+    {
+      "sku": "GV-109",
+      "action": "PATCH",
+      "drishti_price": 31370.0
+    },
+    {
+      "sku": "GV-111",
+      "action": "PATCH",
+      "drishti_price": 28140.0
+    },
+    {
+      "sku": "GV-112",
+      "action": "PATCH",
+      "drishti_price": 19540.0
+    },
+    {
+      "sku": "GV-114",
+      "action": "PATCH",
+      "drishti_price": 20750.0
+    },
+    {
+      "sku": "GV-116",
+      "action": "PATCH",
+      "drishti_price": 25510.0
+    },
+    {
+      "sku": "GV-117",
+      "action": "PATCH",
+      "drishti_price": 14430.0
+    },
+    {
+      "sku": "GV-119",
+      "action": "PATCH",
+      "drishti_price": 26280.0
+    },
+    {
+      "sku": "GV-122",
+      "action": "PATCH",
+      "drishti_price": 11660.0
+    },
+    {
+      "sku": "GV-123",
+      "action": "PATCH",
+      "drishti_price": 8960.0
+    },
+    {
+      "sku": "GV-124",
+      "action": "PATCH",
+      "drishti_price": 27970.0
+    },
+    {
+      "sku": "GV-126",
+      "action": "PATCH",
+      "drishti_price": 37510.0
+    },
+    {
+      "sku": "GV-128",
+      "action": "PATCH",
+      "drishti_price": 7600.0
+    },
+    {
+      "sku": "GV-129",
+      "action": "PATCH",
+      "drishti_price": 14190.0
+    },
+    {
+      "sku": "GV-131",
+      "action": "PATCH",
+      "drishti_price": 13040.0
+    },
+    {
+      "sku": "GV-132",
+      "action": "PATCH",
+      "drishti_price": 13720.0
+    },
+    {
+      "sku": "GV-133",
+      "action": "PATCH",
+      "drishti_price": 2200.0
+    },
+    {
+      "sku": "GV-135",
+      "action": "PATCH",
+      "drishti_price": 23050.0
+    },
+    {
+      "sku": "GV-136",
+      "action": "PATCH",
+      "drishti_price": 2890.0
+    },
+    {
+      "sku": "GV-139",
+      "action": "PATCH",
+      "drishti_price": 20120.0
+    },
+    {
+      "sku": "GV-141",
+      "action": "PATCH",
+      "drishti_price": 25540.0
+    },
+    {
+      "sku": "BV-103",
+      "action": "PATCH",
+      "drishti_price": 24450.0
+    },
+    {
+      "sku": "BV-106",
+      "action": "PATCH",
+      "drishti_price": 22130.0
+    },
+    {
+      "sku": "BV-109",
+      "action": "PATCH",
+      "drishti_price": 34270.0
+    },
+    {
+      "sku": "BV-111",
+      "action": "PATCH",
+      "drishti_price": 8970.0
+    },
+    {
+      "sku": "BV-112",
+      "action": "PATCH",
+      "drishti_price": 2800.0
+    },
+    {
+      "sku": "BV-113",
+      "action": "PATCH",
+      "drishti_price": 25310.0
+    },
+    {
+      "sku": "BV-115",
+      "action": "PATCH",
+      "drishti_price": 20160.0
+    },
+    {
+      "sku": "BV-118",
+      "action": "PATCH",
+      "drishti_price": 20450.0
+    },
+    {
+      "sku": "BV-120",
+      "action": "PATCH",
+      "drishti_price": 34600.0
+    },
+    {
+      "sku": "BV-123",
+      "action": "PATCH",
+      "drishti_price": 4330.0
+    },
+    {
+      "sku": "BV-124",
+      "action": "PATCH",
+      "drishti_price": 25830.0
+    },
+    {
+      "sku": "BV-125",
+      "action": "PATCH",
+      "drishti_price": 35340.0
+    },
+    {
+      "sku": "BV-128",
+      "action": "PATCH",
+      "drishti_price": 3050.0
+    },
+    {
+      "sku": "BV-130",
+      "action": "PATCH",
+      "drishti_price": 32320.0
+    },
+    {
+      "sku": "SP-103",
+      "action": "PATCH",
+      "drishti_price": 9040.0
+    },
+    {
+      "sku": "SP-105",
+      "action": "PATCH",
+      "drishti_price": 11420.0
+    },
+    {
+      "sku": "SP-107",
+      "action": "PATCH",
+      "drishti_price": 340.0
+    },
+    {
+      "sku": "SP-109",
+      "action": "PATCH",
+      "drishti_price": 6340.0
+    },
+    {
+      "sku": "SP-110",
+      "action": "PATCH",
+      "drishti_price": 3650.0
+    },
+    {
+      "sku": "SP-113",
+      "action": "PATCH",
+      "drishti_price": 5250.0
+    },
+    {
+      "sku": "SP-114",
+      "action": "PATCH",
+      "drishti_price": 870.0
+    },
+    {
+      "sku": "SP-115",
+      "action": "PATCH",
+      "drishti_price": 420.0
+    },
+    {
+      "sku": "SP-117",
+      "action": "PATCH",
+      "drishti_price": 10170.0
+    },
+    {
+      "sku": "SP-118",
+      "action": "PATCH",
+      "drishti_price": 690.0
+    },
+    {
+      "sku": "SP-120",
+      "action": "PATCH",
+      "drishti_price": 6200.0
+    },
+    {
+      "sku": "SP-122",
+      "action": "PATCH",
+      "drishti_price": 12000.0
+    },
+    {
+      "sku": "SP-123",
+      "action": "PATCH",
+      "drishti_price": 230.0
+    },
+    {
+      "sku": "SP-125",
+      "action": "PATCH",
+      "drishti_price": 240.0
+    },
+    {
+      "sku": "SP-126",
+      "action": "PATCH",
+      "drishti_price": 10710.0
+    },
+    {
+      "sku": "SP-128",
+      "action": "PATCH",
+      "drishti_price": 2570.0
+    },
+    {
+      "sku": "FT-1400",
+      "action": "PATCH",
+      "drishti_price": 77280.0
+    },
+    {
+      "sku": "FT-1407",
+      "action": "PATCH",
+      "drishti_price": 119610.0
+    },
+    {
+      "sku": "FT-1414",
+      "action": "PATCH",
+      "drishti_price": 91480.0
+    },
+    {
+      "sku": "FT-1421",
+      "action": "PATCH",
+      "drishti_price": 136810.0
+    },
+    {
+      "sku": "FT-1428",
+      "action": "PATCH",
+      "drishti_price": 106130.0
+    },
+    {
+      "sku": "FT-1435",
+      "action": "PATCH",
+      "drishti_price": 20490.0
+    },
+    {
+      "sku": "FT-1449",
+      "action": "PATCH",
+      "drishti_price": 130460.0
+    },
+    {
+      "sku": "FT-1456",
+      "action": "PATCH",
+      "drishti_price": 44910.0
+    },
+    {
+      "sku": "FT-1463",
+      "action": "PATCH",
+      "drishti_price": 174600.0
+    },
+    {
+      "sku": "FT-1470",
+      "action": "PATCH",
+      "drishti_price": 136810.0
+    },
+    {
+      "sku": "FT-1477",
+      "action": "PATCH",
+      "drishti_price": 116960.0
+    }
+  ],
+  "M2_flowtech_mapping": [
+    {
+      "flowtech_sku": "FT-1400",
+      "action": "PATCH",
+      "mapped_dri_sku": "CP-160"
+    },
+    {
+      "flowtech_sku": "FT-1407",
+      "action": "PATCH",
+      "mapped_dri_sku": "CP-163"
+    },
+    {
+      "flowtech_sku": "FT-1414",
+      "action": "PATCH",
+      "mapped_dri_sku": "CP-107"
+    },
+    {
+      "flowtech_sku": "FT-1421",
+      "action": "PATCH",
+      "mapped_dri_sku": "CP-172"
+    },
+    {
+      "flowtech_sku": "FT-1428",
+      "action": "PATCH",
+      "mapped_dri_sku": "SM-127"
+    },
+    {
+      "flowtech_sku": "FT-1435",
+      "action": "PATCH",
+      "mapped_dri_sku": "CP-111"
+    },
+    {
+      "flowtech_sku": "FT-1442",
+      "action": "REVIEW",
+      "reason": "No 2023 price"
+    },
+    {
+      "flowtech_sku": "FT-1449",
+      "action": "PATCH",
+      "mapped_dri_sku": "CP-122"
+    },
+    {
+      "flowtech_sku": "FT-1456",
+      "action": "PATCH",
+      "mapped_dri_sku": "SM-135"
+    },
+    {
+      "flowtech_sku": "FT-1463",
+      "action": "PATCH",
+      "mapped_dri_sku": "SM-108"
+    },
+    {
+      "flowtech_sku": "FT-1470",
+      "action": "PATCH",
+      "mapped_dri_sku": "CP-172"
+    },
+    {
+      "flowtech_sku": "FT-1477",
+      "action": "PATCH",
+      "mapped_dri_sku": "SM-139"
+    }
+  ],
+  "W3_customer_merges": [
+    {
+      "legacy_id": "C-5041",
+      "merged_into": "C-5001",
+      "customer_name": "Tirupati Pump House (South)"
+    },
+    {
+      "legacy_id": "C-5042",
+      "merged_into": "C-5002",
+      "customer_name": "Sundaram Sales Corporation (South)"
+    },
+    {
+      "legacy_id": "C-5043",
+      "merged_into": "C-5003",
+      "customer_name": "Bluewave Infra (South)"
+    },
+    {
+      "legacy_id": "C-5044",
+      "merged_into": "C-5004",
+      "customer_name": "Prakash Irrigation Stores (South)"
+    },
+    {
+      "legacy_id": "C-5045",
+      "merged_into": "C-5005",
+      "customer_name": "Pravin Pump Sales (South)"
+    },
+    {
+      "legacy_id": "C-5046",
+      "merged_into": "C-5006",
+      "customer_name": "Northern Pump House (South)"
+    },
+    {
+      "legacy_id": "C-5047",
+      "merged_into": "C-5007",
+      "customer_name": "Agarwal Pumps & Motors (South)"
+    },
+    {
+      "legacy_id": "C-5048",
+      "merged_into": "C-5008",
+      "customer_name": "Vindhya Industrial Corp (South)"
+    },
+    {
+      "legacy_id": "C-5049",
+      "merged_into": "C-5009",
+      "customer_name": "Godavari Agri Pumps (South)"
+    },
+    {
+      "legacy_id": "C-5050",
+      "merged_into": "C-5010",
+      "customer_name": "Rathi Brothers (North)"
+    },
+    {
+      "legacy_id": "C-5051",
+      "merged_into": "C-5011",
+      "customer_name": "Malwa Machinery Mart (North)"
+    },
+    {
+      "legacy_id": "C-5052",
+      "merged_into": "C-5012",
+      "customer_name": "Hitech Water Solutions (North)"
+    },
+    {
+      "legacy_id": "C-5053",
+      "merged_into": "C-5013",
+      "customer_name": "Metro Fluid Controls (North)"
+    },
+    {
+      "legacy_id": "C-5054",
+      "merged_into": "C-5014",
+      "customer_name": "Lakshmi Industrial Agencies (North)"
+    },
+    {
+      "legacy_id": "C-5082",
+      "merged_into": "C-5014",
+      "customer_name": "LAKSHMI INDUSTRIAL AGENCIES"
+    },
+    {
+      "legacy_id": "C-5055",
+      "merged_into": "C-5015",
+      "customer_name": "Techno Flow Solutions (North)"
+    },
+    {
+      "legacy_id": "C-5056",
+      "merged_into": "C-5016",
+      "customer_name": "Krishna Sagar Enterprises (South)"
+    },
+    {
+      "legacy_id": "C-5057",
+      "merged_into": "C-5017",
+      "customer_name": "Crystal Aqua Systems (North)"
+    },
+    {
+      "legacy_id": "C-5058",
+      "merged_into": "C-5018",
+      "customer_name": "Navkar Trading Co (South)"
+    },
+    {
+      "legacy_id": "C-5059",
+      "merged_into": "C-5019",
+      "customer_name": "Apex Engineering Projects (II)"
+    },
+    {
+      "legacy_id": "C-5083",
+      "merged_into": "C-5019",
+      "customer_name": "APEX ENGINEERING PROJECTS"
+    },
+    {
+      "legacy_id": "C-5060",
+      "merged_into": "C-5020",
+      "customer_name": "Everflow Marketing (North)"
+    },
+    {
+      "legacy_id": "C-5084",
+      "merged_into": "C-5020",
+      "customer_name": "EVERFLOW MARKETING"
+    },
+    {
+      "legacy_id": "C-5061",
+      "merged_into": "C-5021",
+      "customer_name": "Kaveri Engineering Sales (II)"
+    },
+    {
+      "legacy_id": "C-5062",
+      "merged_into": "C-5022",
+      "customer_name": "Emerald Pumping Solutions (North)"
+    },
+    {
+      "legacy_id": "C-5063",
+      "merged_into": "C-5023",
+      "customer_name": "Shree Datta Agencies (South)"
+    },
+    {
+      "legacy_id": "C-5064",
+      "merged_into": "C-5024",
+      "customer_name": "Dhanlaxmi Distributors (North)"
+    },
+    {
+      "legacy_id": "C-5081",
+      "merged_into": "C-5024",
+      "customer_name": "DHANLAXMI DISTRIBUTORS"
+    },
+    {
+      "legacy_id": "C-5065",
+      "merged_into": "C-5025",
+      "customer_name": "Falcon Industrial Sales (North)"
+    },
+    {
+      "legacy_id": "C-5066",
+      "merged_into": "C-5026",
+      "customer_name": "Bharat Pump Centre (North)"
+    },
+    {
+      "legacy_id": "C-5067",
+      "merged_into": "C-5027",
+      "customer_name": "Ujjwal Engineering (South)"
+    },
+    {
+      "legacy_id": "C-5068",
+      "merged_into": "C-5028",
+      "customer_name": "Sagar Hydro Systems (II)"
+    },
+    {
+      "legacy_id": "C-5069",
+      "merged_into": "C-5029",
+      "customer_name": "Western Flow Controls (South)"
+    },
+    {
+      "legacy_id": "C-5085",
+      "merged_into": "C-5029",
+      "customer_name": "WESTERN FLOW CONTROLS"
+    },
+    {
+      "legacy_id": "C-5070",
+      "merged_into": "C-5030",
+      "customer_name": "Himgiri Traders (North)"
+    },
+    {
+      "legacy_id": "C-5071",
+      "merged_into": "C-5031",
+      "customer_name": "Quality Fluid Systems (South)"
+    },
+    {
+      "legacy_id": "C-5072",
+      "merged_into": "C-5032",
+      "customer_name": "Marudhar Machinery (North)"
+    },
+    {
+      "legacy_id": "C-5073",
+      "merged_into": "C-5033",
+      "customer_name": "Rajdhani Engineering Co (South)"
+    },
+    {
+      "legacy_id": "C-5074",
+      "merged_into": "C-5034",
+      "customer_name": "Chola Pump Distributors (South)"
+    },
+    {
+      "legacy_id": "C-5075",
+      "merged_into": "C-5035",
+      "customer_name": "Ganga Valley Traders (II)"
+    },
+    {
+      "legacy_id": "C-5076",
+      "merged_into": "C-5036",
+      "customer_name": "Zenith Pump Solutions (South)"
+    },
+    {
+      "legacy_id": "C-5077",
+      "merged_into": "C-5037",
+      "customer_name": "Orient Flow Equipments (North)"
+    },
+    {
+      "legacy_id": "C-5078",
+      "merged_into": "C-5038",
+      "customer_name": "Sri Balaji Agencies (North)"
+    },
+    {
+      "legacy_id": "C-5079",
+      "merged_into": "C-5039",
+      "customer_name": "Yamuna Industrial Traders (South)"
+    },
+    {
+      "legacy_id": "C-5080",
+      "merged_into": "C-5040",
+      "customer_name": "Vasavi Sales & Service (North)"
+    }
+  ],
+  "M3_salestrack_updates": [
+    {
+      "legacy_id": "C-5001",
+      "crm_id": "ST-00001",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5002",
+      "crm_id": "ST-00002",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5009",
+      "crm_id": "ST-00003",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5010",
+      "crm_id": "ST-00004",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5013",
+      "crm_id": "ST-00005",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5014",
+      "crm_id": "ST-00006",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5019",
+      "crm_id": "ST-00007",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5022",
+      "crm_id": "ST-00008",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5024",
+      "crm_id": "ST-00009",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5031",
+      "crm_id": "ST-00010",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5032",
+      "crm_id": "ST-00011",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5033",
+      "crm_id": "ST-00012",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5034",
+      "crm_id": "ST-00013",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5035",
+      "crm_id": "ST-00014",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5040",
+      "crm_id": "ST-00015",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5042",
+      "crm_id": "ST-00016",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5043",
+      "crm_id": "ST-00017",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5044",
+      "crm_id": "ST-00018",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5045",
+      "crm_id": "ST-00019",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5049",
+      "crm_id": "ST-00020",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5054",
+      "crm_id": "ST-00021",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5055",
+      "crm_id": "ST-00022",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5061",
+      "crm_id": "ST-00023",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5062",
+      "crm_id": "ST-00024",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5064",
+      "crm_id": "ST-00025",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5065",
+      "crm_id": "ST-00026",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5073",
+      "crm_id": "ST-00027",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5074",
+      "crm_id": "ST-00028",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5076",
+      "crm_id": "ST-00029",
+      "action": "PATCH"
+    },
+    {
+      "legacy_id": "C-5078",
+      "crm_id": "ST-00030",
+      "action": "PATCH"
+    }
+  ]
+}

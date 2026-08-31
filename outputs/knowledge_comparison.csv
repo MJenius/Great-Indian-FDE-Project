@@ -1,0 +1,13 @@
+qid,old_answer,new_answer,old_source,new_source,answer_changed,source_changed,reason
+K-01,10%,10%,PP-2023,PP-2023,False,False,Single order value Rs 7.2L falls in Rs 5L-15L bracket of PP-2023
+K-02,30 days,30 days from the date of invoice,PP-2023,PP-2023,True,False,Clarified standard credit terms wording under Section 3
+K-03,Buyer,Buyer (all despatches are ex-works irrespective of order value),PP-2023,PP-2023,True,False,Clarified ex-works terms where freight is to buyer account
+K-04,24 months from despatch,24 months from despatch (under Addendum A for pre-acquisition stock),WRP-2020,WRP-2020,True,False,Detailed reference to WRP-2020 Addendum A pre-acquisition clause
+K-05,"GST registration certificate, cancelled cheque, and MSME declaration (where applicable)","GST registration certificate, cancelled cheque, and MSME declaration (where applicable)",VOS-7,VOS-7,False,False,Exact match with VOS-7 Step 2 procedure
+K-06,Rs 2,00,000,Rs 2,00,000 (capped at Rs 2,00,000),VOS-7,VOS-7,True,False,Exact match with VOS-7 Step 6 trial PO limit
+K-07,CFO,CFO (projected annual spend above Rs 10,00,000),VOS-7,VOS-7,True,False,Clarified threshold rule for spend > Rs 10L
+K-08,Nil (0%),Nil (0%),PP-2023,PP-2023,False,False,Single order value Rs 4.2L is below Rs 5L threshold in PP-2023
+K-09,10%,10% of invoice value (returns accepted within 30 days of despatch for unused goods in original packing),WRP-2020,WRP-2020,True,False,Clarified restocking fee and 30-day return window
+K-10,15 days,15 days minimum written notice,PP-2023,PP-2023,True,False,Clarified PP-2023 Section 5 price revision notice
+K-11,June 2026,"June 2026 (whichever earlier: 12 months from commissioning falls in June 2026, before 18 months from despatch in July 2026)",WRP-2020,WRP-2020,True,False,Exact calendar arithmetic comparing 18m from despatch vs 12m from commissioning
+K-12,60 days,60 days from the date of invoice,PP-2023,PP-2023,True,False,Clarified Platinum-tier credit terms under Section 3

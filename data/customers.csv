@@ -1,0 +1,86 @@
+legacy_id,crm_id,customer_name,tier,region,credit_terms_days,migrated_to_salestrack
+C-5001,,Tirupati Pump House,Gold,North,30,N
+C-5002,,Sundaram Sales Corporation,Standard,South,30,N
+C-5003,ST-75318,Bluewave Infra,Standard,West,30,Y
+C-5004,ST-51492,Prakash Irrigation Stores,Standard,West,30,Y
+C-5005,ST-21940,Pravin Pump Sales,Gold,South,30,Y
+C-5006,ST-99607,Northern Pump House,Gold,South,30,Y
+C-5007,ST-63307,Agarwal Pumps & Motors,Gold,West,30,Y
+C-5008,ST-32275,Vindhya Industrial Corp,Standard,North,30,Y
+C-5009,,Godavari Agri Pumps,Standard,South,30,N
+C-5010,,Rathi Brothers,Platinum,South,60,N
+C-5011,ST-92750,Malwa Machinery Mart,Standard,South,30,Y
+C-5012,ST-62884,Hitech Water Solutions,Platinum,South,60,Y
+C-5013,,Metro Fluid Controls,Standard,North,30,N
+C-5014,,Lakshmi Industrial Agencies,Standard,East,30,N
+C-5015,ST-94838,Techno Flow Solutions,Platinum,North,60,Y
+C-5016,ST-97900,Krishna Sagar Enterprises,Standard,West,30,Y
+C-5017,ST-25791,Crystal Aqua Systems,Platinum,West,60,Y
+C-5018,ST-23794,Navkar Trading Co,Standard,South,30,Y
+C-5019,,Apex Engineering Projects,Gold,East,30,N
+C-5020,ST-57772,Everflow Marketing,Standard,West,30,Y
+C-5021,ST-94577,Kaveri Engineering Sales,Standard,West,30,Y
+C-5022,,Emerald Pumping Solutions,Standard,South,30,N
+C-5023,ST-14305,Shree Datta Agencies,Standard,South,30,Y
+C-5024,,Dhanlaxmi Distributors,Platinum,West,60,N
+C-5025,ST-34954,Falcon Industrial Sales,Standard,East,30,Y
+C-5026,ST-12606,Bharat Pump Centre,Standard,South,30,Y
+C-5027,ST-86018,Ujjwal Engineering,Gold,West,30,Y
+C-5028,ST-44098,Sagar Hydro Systems,Standard,South,30,Y
+C-5029,ST-61829,Western Flow Controls,Gold,East,30,Y
+C-5030,ST-36393,Himgiri Traders,Standard,East,30,Y
+C-5031,,Quality Fluid Systems,Gold,North,30,N
+C-5032,,Marudhar Machinery,Standard,West,30,N
+C-5033,,Rajdhani Engineering Co,Standard,West,30,N
+C-5034,,Chola Pump Distributors,Platinum,South,60,N
+C-5035,,Ganga Valley Traders,Standard,South,30,N
+C-5036,ST-64753,Zenith Pump Solutions,Gold,East,30,Y
+C-5037,ST-82899,Orient Flow Equipments,Standard,West,30,Y
+C-5038,ST-23808,Sri Balaji Agencies,Standard,East,30,Y
+C-5039,ST-19993,Yamuna Industrial Traders,Gold,North,30,Y
+C-5040,,Vasavi Sales & Service,Gold,North,30,N
+C-5041,ST-24255,Tirupati Pump House (South),Gold,East,30,Y
+C-5042,,Sundaram Sales Corporation (South),Platinum,North,60,N
+C-5043,,Bluewave Infra (South),Gold,East,30,N
+C-5044,,Prakash Irrigation Stores (South),Standard,East,30,N
+C-5045,,Pravin Pump Sales (South),Standard,South,30,N
+C-5046,ST-93436,Northern Pump House (South),Standard,North,30,Y
+C-5047,ST-24920,Agarwal Pumps & Motors (South),Gold,South,30,Y
+C-5048,ST-78436,Vindhya Industrial Corp (South),Gold,West,30,Y
+C-5049,,Godavari Agri Pumps (South),Standard,West,30,N
+C-5050,ST-11564,Rathi Brothers (North),Gold,East,30,Y
+C-5051,ST-60784,Malwa Machinery Mart (North),Standard,East,30,Y
+C-5052,ST-68622,Hitech Water Solutions (North),Standard,West,30,Y
+C-5053,ST-30528,Metro Fluid Controls (North),Standard,West,30,Y
+C-5054,,Lakshmi Industrial Agencies (North),Gold,West,30,N
+C-5055,,Techno Flow Solutions (North),Platinum,West,60,N
+C-5056,ST-16741,Krishna Sagar Enterprises (South),Gold,East,30,Y
+C-5057,ST-57776,Crystal Aqua Systems (North),Platinum,West,60,Y
+C-5058,ST-65986,Navkar Trading Co (South),Standard,East,30,Y
+C-5059,ST-71028,Apex Engineering Projects (II),Gold,South,30,Y
+C-5060,ST-24322,Everflow Marketing (North),Standard,North,30,Y
+C-5061,,Kaveri Engineering Sales (II),Standard,East,30,N
+C-5062,,Emerald Pumping Solutions (North),Gold,East,30,N
+C-5063,ST-13488,Shree Datta Agencies (South),Standard,East,30,Y
+C-5064,,Dhanlaxmi Distributors (North),Standard,South,30,N
+C-5065,,Falcon Industrial Sales (North),Gold,North,30,N
+C-5066,ST-60046,Bharat Pump Centre (North),Gold,East,30,Y
+C-5067,ST-17618,Ujjwal Engineering (South),Standard,West,30,Y
+C-5068,ST-42623,Sagar Hydro Systems (II),Standard,West,30,Y
+C-5069,ST-92053,Western Flow Controls (South),Standard,West,30,Y
+C-5070,ST-90809,Himgiri Traders (North),Standard,West,30,Y
+C-5071,ST-84544,Quality Fluid Systems (South),Gold,West,30,Y
+C-5072,ST-76772,Marudhar Machinery (North),Standard,South,30,Y
+C-5073,,Rajdhani Engineering Co (South),Standard,North,30,N
+C-5074,,Chola Pump Distributors (South),Standard,South,30,N
+C-5075,ST-75308,Ganga Valley Traders (II),Standard,South,30,Y
+C-5076,,Zenith Pump Solutions (South),Standard,South,30,N
+C-5077,ST-71211,Orient Flow Equipments (North),Standard,West,30,Y
+C-5078,,Sri Balaji Agencies (North),Standard,East,30,N
+C-5079,ST-66608,Yamuna Industrial Traders (South),Gold,West,30,Y
+C-5080,ST-47555,Vasavi Sales & Service (North),Standard,North,30,Y
+C-5081,ST-94192,DHANLAXMI DISTRIBUTORS,Platinum,West,60,Y
+C-5082,ST-89190,LAKSHMI INDUSTRIAL AGENCIES,Standard,East,30,Y
+C-5083,ST-96206,APEX ENGINEERING PROJECTS,Gold,East,30,Y
+C-5084,ST-61658,EVERFLOW MARKETING,Standard,West,30,Y
+C-5085,ST-67568,WESTERN FLOW CONTROLS,Gold,East,30,Y

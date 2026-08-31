@@ -1,0 +1,50 @@
+{
+  "task": "W2",
+  "dry_run": true,
+  "planned_actions": [
+    {
+      "action_id": "post_exceptions_report",
+      "description": "Post full invoice reconciliation exceptions report to DRISHTI ERP",
+      "method": "POST",
+      "endpoint": "/erp/reports/exceptions",
+      "payload": {
+        "total_invoices": 250,
+        "clean_invoices": 155,
+        "total_exceptions": 95,
+        "value_at_risk": 88404135.42,
+        "exceptions_by_class": {
+          "QTY_MISMATCH": 21,
+          "GST_ERROR": 16,
+          "RATE_MISMATCH": 16,
+          "UOM_MISMATCH": 13,
+          "MISSING_PO": 12,
+          "VENDOR_MISMATCH": 12,
+          "DUPLICATE_INVOICE": 5
+        }
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": null,
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    }
+  ],
+  "metadata": {
+    "total_invoices": 250,
+    "clean_invoices": 155,
+    "total_exceptions": 95,
+    "value_at_risk": 88404135.42,
+    "exceptions_by_class": {
+      "QTY_MISMATCH": 21,
+      "GST_ERROR": 16,
+      "RATE_MISMATCH": 16,
+      "UOM_MISMATCH": 13,
+      "MISSING_PO": 12,
+      "VENDOR_MISMATCH": 12,
+      "DUPLICATE_INVOICE": 5
+    }
+  }
+}

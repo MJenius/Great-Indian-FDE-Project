@@ -1,0 +1,13 @@
+qid,engine_answer,independent_answer,engine_source,independent_source,answer_agrees,source_agrees,notes
+K-01,10%,10%,PP-2023,PP-2023,True,True,"March 2024 order >= 2023-10-01; Rs 7.2L falls into Rs 5L-15L slab (10%)."
+K-02,30 days from the date of invoice,30 days,PP-2023,PP-2023,True,True,"PP-2023 Sec 3 sets standard credit to 30 days; tier is Gold (not Platinum)."
+K-03,Buyer (all despatches are ex-works irrespective of order value),Buyer,PP-2023,PP-2023,True,True,"PP-2023 Sec 4 mandates all despatches are ex-works; freight to buyer's account."
+K-04,24 months from despatch (under Addendum A for pre-acquisition stock),24 months from despatch,WRP-2020,WRP-2020,True,True,"WRP-2020 Addendum A pre-acquisition stock clause applies."
+K-05,"GST registration certificate, cancelled cheque, and MSME declaration (where applicable)","GST registration certificate, cancelled cheque, and MSME declaration (where applicable)",VOS-7,VOS-7,True,True,"VOS-7 Step 2 specifies exact 3 required onboarding documents."
+K-06,Rs 2,00,000 (capped at Rs 2,00,000),Rs 2,00,000,VOS-7,VOS-7,True,True,"VOS-7 Step 6 specifies trial PO capped at Rs 2,00,000."
+K-07,CFO (projected annual spend above Rs 10,00,000),CFO,VOS-7,VOS-7,True,True,"VOS-7 Sec 3 approval matrix: projected spend > Rs 10L requires CFO."
+K-08,Nil (0%),Nil,PP-2023,PP-2023,True,True,"PP-2023 Sec 2.1: Single order below Rs 5L receives Nil discount."
+K-09,10% of invoice value (returns accepted within 30 days of despatch for unused goods in original packing),10%,WRP-2020,WRP-2020,True,True,"WRP-2020 Sec 3 specifies 10% restocking charge on invoice value."
+K-10,15 days minimum written notice,15 days,PP-2023,PP-2023,True,True,"PP-2023 Sec 5 specifies minimum 15 days written notice."
+K-11,"June 2026 (whichever earlier: 12 months from commissioning falls in June 2026, before 18 months from despatch in July 2026)",June 2026,WRP-2020,WRP-2020,True,True,"WRP-2020 Sec 1: 18m from Jan 2025 (July 2026) vs 12m from June 2025 (June 2026). June 2026 is earlier."
+K-12,60 days from the date of invoice,60 days,PP-2023,PP-2023,True,True,"PP-2023 Sec 3 explicitly grants 60 days to Platinum-tier distributors."

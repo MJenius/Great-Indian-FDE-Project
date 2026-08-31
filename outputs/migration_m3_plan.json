@@ -1,0 +1,316 @@
+{
+  "task": "M3",
+  "dry_run": true,
+  "price_actions": [],
+  "flowtech_actions": [],
+  "salestrack_actions": [
+    {
+      "legacy_id": "C-5001",
+      "customer_name": "Tirupati Pump House",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99608",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5002",
+      "customer_name": "Sundaram Sales Corporation",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99609",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5009",
+      "customer_name": "Godavari Agri Pumps",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99610",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5010",
+      "customer_name": "Rathi Brothers",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99611",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5013",
+      "customer_name": "Metro Fluid Controls",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99612",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5014",
+      "customer_name": "Lakshmi Industrial Agencies",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99613",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5019",
+      "customer_name": "Apex Engineering Projects",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99614",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5022",
+      "customer_name": "Emerald Pumping Solutions",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99615",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5024",
+      "customer_name": "Dhanlaxmi Distributors",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99616",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5031",
+      "customer_name": "Quality Fluid Systems",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99617",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5032",
+      "customer_name": "Marudhar Machinery",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99618",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5033",
+      "customer_name": "Rajdhani Engineering Co",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99619",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5034",
+      "customer_name": "Chola Pump Distributors",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99620",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5035",
+      "customer_name": "Ganga Valley Traders",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99621",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5040",
+      "customer_name": "Vasavi Sales & Service",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99622",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5042",
+      "customer_name": "Sundaram Sales Corporation (South)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99623",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5043",
+      "customer_name": "Bluewave Infra (South)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99624",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5044",
+      "customer_name": "Prakash Irrigation Stores (South)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99625",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5045",
+      "customer_name": "Pravin Pump Sales (South)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99626",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5049",
+      "customer_name": "Godavari Agri Pumps (South)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99627",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5054",
+      "customer_name": "Lakshmi Industrial Agencies (North)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99628",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5055",
+      "customer_name": "Techno Flow Solutions (North)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99629",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5061",
+      "customer_name": "Kaveri Engineering Sales (II)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99630",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5062",
+      "customer_name": "Emerald Pumping Solutions (North)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99631",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5064",
+      "customer_name": "Dhanlaxmi Distributors (North)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99632",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5065",
+      "customer_name": "Falcon Industrial Sales (North)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99633",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5073",
+      "customer_name": "Rajdhani Engineering Co (South)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99634",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5074",
+      "customer_name": "Chola Pump Distributors (South)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99635",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5076",
+      "customer_name": "Zenith Pump Solutions (South)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99636",
+      "action_type": "PATCH"
+    },
+    {
+      "legacy_id": "C-5078",
+      "customer_name": "Sri Balaji Agencies (North)",
+      "current_migrated_status": "N",
+      "current_crm_id": null,
+      "desired_migrated_status": "Y",
+      "desired_crm_id": "ST-99637",
+      "action_type": "PATCH"
+    }
+  ],
+  "metadata": {
+    "total_customers": 85,
+    "already_migrated": 55,
+    "pending_migration": 30,
+    "proposed_patch_count": 30,
+    "generated_crm_ids": [
+      "ST-99608",
+      "ST-99609",
+      "ST-99610",
+      "ST-99611",
+      "ST-99612",
+      "ST-99613",
+      "ST-99614",
+      "ST-99615",
+      "ST-99616",
+      "ST-99617",
+      "ST-99618",
+      "ST-99619",
+      "ST-99620",
+      "ST-99621",
+      "ST-99622",
+      "ST-99623",
+      "ST-99624",
+      "ST-99625",
+      "ST-99626",
+      "ST-99627",
+      "ST-99628",
+      "ST-99629",
+      "ST-99630",
+      "ST-99631",
+      "ST-99632",
+      "ST-99633",
+      "ST-99634",
+      "ST-99635",
+      "ST-99636",
+      "ST-99637"
+    ]
+  }
+}

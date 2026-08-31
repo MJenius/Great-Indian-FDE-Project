@@ -1,0 +1,814 @@
+{
+  "task": "M1",
+  "dry_run": true,
+  "price_actions": [
+    {
+      "sku": "CP-103",
+      "current_drishti_price": null,
+      "desired_drishti_price": 114580.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9114,580.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-105",
+      "current_drishti_price": null,
+      "desired_drishti_price": 184240.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9184,240.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-107",
+      "current_drishti_price": null,
+      "desired_drishti_price": 91480.0,
+      "reason": "Update drishti_price to 2023 list price \u20b991,480.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-108",
+      "current_drishti_price": null,
+      "desired_drishti_price": 201140.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9201,140.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-110",
+      "current_drishti_price": null,
+      "desired_drishti_price": 231320.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9231,320.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-111",
+      "current_drishti_price": null,
+      "desired_drishti_price": 20490.0,
+      "reason": "Update drishti_price to 2023 list price \u20b920,490.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-114",
+      "current_drishti_price": null,
+      "desired_drishti_price": 162690.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9162,690.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-117",
+      "current_drishti_price": null,
+      "desired_drishti_price": 80790.0,
+      "reason": "Update drishti_price to 2023 list price \u20b980,790.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-119",
+      "current_drishti_price": null,
+      "desired_drishti_price": 198620.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9198,620.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-122",
+      "current_drishti_price": null,
+      "desired_drishti_price": 130460.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9130,460.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-125",
+      "current_drishti_price": null,
+      "desired_drishti_price": 269740.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9269,740.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-129",
+      "current_drishti_price": null,
+      "desired_drishti_price": 117240.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9117,240.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-131",
+      "current_drishti_price": null,
+      "desired_drishti_price": 126650.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9126,650.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-134",
+      "current_drishti_price": null,
+      "desired_drishti_price": 251610.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9251,610.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-136",
+      "current_drishti_price": null,
+      "desired_drishti_price": 242720.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9242,720.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-137",
+      "current_drishti_price": null,
+      "desired_drishti_price": 263540.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9263,540.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-140",
+      "current_drishti_price": null,
+      "desired_drishti_price": 181550.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9181,550.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-143",
+      "current_drishti_price": null,
+      "desired_drishti_price": 150920.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9150,920.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-146",
+      "current_drishti_price": null,
+      "desired_drishti_price": 89280.0,
+      "reason": "Update drishti_price to 2023 list price \u20b989,280.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-147",
+      "current_drishti_price": null,
+      "desired_drishti_price": 210590.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9210,590.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-149",
+      "current_drishti_price": null,
+      "desired_drishti_price": 271110.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9271,110.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-152",
+      "current_drishti_price": null,
+      "desired_drishti_price": 150050.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9150,050.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-155",
+      "current_drishti_price": null,
+      "desired_drishti_price": 231140.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9231,140.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-158",
+      "current_drishti_price": null,
+      "desired_drishti_price": 75140.0,
+      "reason": "Update drishti_price to 2023 list price \u20b975,140.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-159",
+      "current_drishti_price": null,
+      "desired_drishti_price": 158890.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9158,890.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-160",
+      "current_drishti_price": null,
+      "desired_drishti_price": 77280.0,
+      "reason": "Update drishti_price to 2023 list price \u20b977,280.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-162",
+      "current_drishti_price": null,
+      "desired_drishti_price": 147380.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9147,380.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-163",
+      "current_drishti_price": null,
+      "desired_drishti_price": 119610.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9119,610.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-165",
+      "current_drishti_price": null,
+      "desired_drishti_price": 77960.0,
+      "reason": "Update drishti_price to 2023 list price \u20b977,960.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-168",
+      "current_drishti_price": null,
+      "desired_drishti_price": 58790.0,
+      "reason": "Update drishti_price to 2023 list price \u20b958,790.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-171",
+      "current_drishti_price": null,
+      "desired_drishti_price": 232720.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9232,720.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-172",
+      "current_drishti_price": null,
+      "desired_drishti_price": 136810.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9136,810.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "CP-173",
+      "current_drishti_price": null,
+      "desired_drishti_price": 43920.0,
+      "reason": "Update drishti_price to 2023 list price \u20b943,920.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-102",
+      "current_drishti_price": null,
+      "desired_drishti_price": 35730.0,
+      "reason": "Update drishti_price to 2023 list price \u20b935,730.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-103",
+      "current_drishti_price": null,
+      "desired_drishti_price": 97440.0,
+      "reason": "Update drishti_price to 2023 list price \u20b997,440.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-104",
+      "current_drishti_price": null,
+      "desired_drishti_price": 84800.0,
+      "reason": "Update drishti_price to 2023 list price \u20b984,800.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-106",
+      "current_drishti_price": null,
+      "desired_drishti_price": 162460.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9162,460.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-108",
+      "current_drishti_price": null,
+      "desired_drishti_price": 174600.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9174,600.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-111",
+      "current_drishti_price": null,
+      "desired_drishti_price": 176610.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9176,610.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-114",
+      "current_drishti_price": null,
+      "desired_drishti_price": 95570.0,
+      "reason": "Update drishti_price to 2023 list price \u20b995,570.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-116",
+      "current_drishti_price": null,
+      "desired_drishti_price": 161830.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9161,830.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-118",
+      "current_drishti_price": null,
+      "desired_drishti_price": 55460.0,
+      "reason": "Update drishti_price to 2023 list price \u20b955,460.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-121",
+      "current_drishti_price": null,
+      "desired_drishti_price": 71470.0,
+      "reason": "Update drishti_price to 2023 list price \u20b971,470.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-124",
+      "current_drishti_price": null,
+      "desired_drishti_price": 191620.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9191,620.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-127",
+      "current_drishti_price": null,
+      "desired_drishti_price": 106130.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9106,130.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-134",
+      "current_drishti_price": null,
+      "desired_drishti_price": 31340.0,
+      "reason": "Update drishti_price to 2023 list price \u20b931,340.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-135",
+      "current_drishti_price": null,
+      "desired_drishti_price": 44910.0,
+      "reason": "Update drishti_price to 2023 list price \u20b944,910.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SM-139",
+      "current_drishti_price": null,
+      "desired_drishti_price": 116960.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9116,960.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-101",
+      "current_drishti_price": null,
+      "desired_drishti_price": 13230.0,
+      "reason": "Update drishti_price to 2023 list price \u20b913,230.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-102",
+      "current_drishti_price": null,
+      "desired_drishti_price": 34710.0,
+      "reason": "Update drishti_price to 2023 list price \u20b934,710.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-105",
+      "current_drishti_price": null,
+      "desired_drishti_price": 41960.0,
+      "reason": "Update drishti_price to 2023 list price \u20b941,960.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-107",
+      "current_drishti_price": null,
+      "desired_drishti_price": 14410.0,
+      "reason": "Update drishti_price to 2023 list price \u20b914,410.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-109",
+      "current_drishti_price": null,
+      "desired_drishti_price": 31370.0,
+      "reason": "Update drishti_price to 2023 list price \u20b931,370.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-111",
+      "current_drishti_price": null,
+      "desired_drishti_price": 28140.0,
+      "reason": "Update drishti_price to 2023 list price \u20b928,140.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-112",
+      "current_drishti_price": null,
+      "desired_drishti_price": 19540.0,
+      "reason": "Update drishti_price to 2023 list price \u20b919,540.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-114",
+      "current_drishti_price": null,
+      "desired_drishti_price": 20750.0,
+      "reason": "Update drishti_price to 2023 list price \u20b920,750.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-116",
+      "current_drishti_price": null,
+      "desired_drishti_price": 25510.0,
+      "reason": "Update drishti_price to 2023 list price \u20b925,510.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-117",
+      "current_drishti_price": null,
+      "desired_drishti_price": 14430.0,
+      "reason": "Update drishti_price to 2023 list price \u20b914,430.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-119",
+      "current_drishti_price": null,
+      "desired_drishti_price": 26280.0,
+      "reason": "Update drishti_price to 2023 list price \u20b926,280.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-122",
+      "current_drishti_price": null,
+      "desired_drishti_price": 11660.0,
+      "reason": "Update drishti_price to 2023 list price \u20b911,660.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-123",
+      "current_drishti_price": null,
+      "desired_drishti_price": 8960.0,
+      "reason": "Update drishti_price to 2023 list price \u20b98,960.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-124",
+      "current_drishti_price": null,
+      "desired_drishti_price": 27970.0,
+      "reason": "Update drishti_price to 2023 list price \u20b927,970.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-126",
+      "current_drishti_price": null,
+      "desired_drishti_price": 37510.0,
+      "reason": "Update drishti_price to 2023 list price \u20b937,510.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-128",
+      "current_drishti_price": null,
+      "desired_drishti_price": 7600.0,
+      "reason": "Update drishti_price to 2023 list price \u20b97,600.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-129",
+      "current_drishti_price": null,
+      "desired_drishti_price": 14190.0,
+      "reason": "Update drishti_price to 2023 list price \u20b914,190.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-131",
+      "current_drishti_price": null,
+      "desired_drishti_price": 13040.0,
+      "reason": "Update drishti_price to 2023 list price \u20b913,040.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-132",
+      "current_drishti_price": null,
+      "desired_drishti_price": 13720.0,
+      "reason": "Update drishti_price to 2023 list price \u20b913,720.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-133",
+      "current_drishti_price": null,
+      "desired_drishti_price": 2200.0,
+      "reason": "Update drishti_price to 2023 list price \u20b92,200.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-135",
+      "current_drishti_price": null,
+      "desired_drishti_price": 23050.0,
+      "reason": "Update drishti_price to 2023 list price \u20b923,050.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-136",
+      "current_drishti_price": null,
+      "desired_drishti_price": 2890.0,
+      "reason": "Update drishti_price to 2023 list price \u20b92,890.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-139",
+      "current_drishti_price": null,
+      "desired_drishti_price": 20120.0,
+      "reason": "Update drishti_price to 2023 list price \u20b920,120.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "GV-141",
+      "current_drishti_price": null,
+      "desired_drishti_price": 25540.0,
+      "reason": "Update drishti_price to 2023 list price \u20b925,540.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-103",
+      "current_drishti_price": null,
+      "desired_drishti_price": 24450.0,
+      "reason": "Update drishti_price to 2023 list price \u20b924,450.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-106",
+      "current_drishti_price": null,
+      "desired_drishti_price": 22130.0,
+      "reason": "Update drishti_price to 2023 list price \u20b922,130.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-109",
+      "current_drishti_price": null,
+      "desired_drishti_price": 34270.0,
+      "reason": "Update drishti_price to 2023 list price \u20b934,270.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-111",
+      "current_drishti_price": null,
+      "desired_drishti_price": 8970.0,
+      "reason": "Update drishti_price to 2023 list price \u20b98,970.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-112",
+      "current_drishti_price": null,
+      "desired_drishti_price": 2800.0,
+      "reason": "Update drishti_price to 2023 list price \u20b92,800.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-113",
+      "current_drishti_price": null,
+      "desired_drishti_price": 25310.0,
+      "reason": "Update drishti_price to 2023 list price \u20b925,310.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-115",
+      "current_drishti_price": null,
+      "desired_drishti_price": 20160.0,
+      "reason": "Update drishti_price to 2023 list price \u20b920,160.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-118",
+      "current_drishti_price": null,
+      "desired_drishti_price": 20450.0,
+      "reason": "Update drishti_price to 2023 list price \u20b920,450.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-120",
+      "current_drishti_price": null,
+      "desired_drishti_price": 34600.0,
+      "reason": "Update drishti_price to 2023 list price \u20b934,600.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-123",
+      "current_drishti_price": null,
+      "desired_drishti_price": 4330.0,
+      "reason": "Update drishti_price to 2023 list price \u20b94,330.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-124",
+      "current_drishti_price": null,
+      "desired_drishti_price": 25830.0,
+      "reason": "Update drishti_price to 2023 list price \u20b925,830.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-125",
+      "current_drishti_price": null,
+      "desired_drishti_price": 35340.0,
+      "reason": "Update drishti_price to 2023 list price \u20b935,340.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-128",
+      "current_drishti_price": null,
+      "desired_drishti_price": 3050.0,
+      "reason": "Update drishti_price to 2023 list price \u20b93,050.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "BV-130",
+      "current_drishti_price": null,
+      "desired_drishti_price": 32320.0,
+      "reason": "Update drishti_price to 2023 list price \u20b932,320.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-103",
+      "current_drishti_price": null,
+      "desired_drishti_price": 9040.0,
+      "reason": "Update drishti_price to 2023 list price \u20b99,040.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-105",
+      "current_drishti_price": null,
+      "desired_drishti_price": 11420.0,
+      "reason": "Update drishti_price to 2023 list price \u20b911,420.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-107",
+      "current_drishti_price": null,
+      "desired_drishti_price": 340.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9340.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-109",
+      "current_drishti_price": null,
+      "desired_drishti_price": 6340.0,
+      "reason": "Update drishti_price to 2023 list price \u20b96,340.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-110",
+      "current_drishti_price": null,
+      "desired_drishti_price": 3650.0,
+      "reason": "Update drishti_price to 2023 list price \u20b93,650.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-113",
+      "current_drishti_price": null,
+      "desired_drishti_price": 5250.0,
+      "reason": "Update drishti_price to 2023 list price \u20b95,250.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-114",
+      "current_drishti_price": null,
+      "desired_drishti_price": 870.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9870.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-115",
+      "current_drishti_price": null,
+      "desired_drishti_price": 420.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9420.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-117",
+      "current_drishti_price": null,
+      "desired_drishti_price": 10170.0,
+      "reason": "Update drishti_price to 2023 list price \u20b910,170.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-118",
+      "current_drishti_price": null,
+      "desired_drishti_price": 690.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9690.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-120",
+      "current_drishti_price": null,
+      "desired_drishti_price": 6200.0,
+      "reason": "Update drishti_price to 2023 list price \u20b96,200.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-122",
+      "current_drishti_price": null,
+      "desired_drishti_price": 12000.0,
+      "reason": "Update drishti_price to 2023 list price \u20b912,000.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-123",
+      "current_drishti_price": null,
+      "desired_drishti_price": 230.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9230.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-125",
+      "current_drishti_price": null,
+      "desired_drishti_price": 240.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9240.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-126",
+      "current_drishti_price": null,
+      "desired_drishti_price": 10710.0,
+      "reason": "Update drishti_price to 2023 list price \u20b910,710.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "SP-128",
+      "current_drishti_price": null,
+      "desired_drishti_price": 2570.0,
+      "reason": "Update drishti_price to 2023 list price \u20b92,570.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "FT-1400",
+      "current_drishti_price": null,
+      "desired_drishti_price": 77280.0,
+      "reason": "Update drishti_price to 2023 list price \u20b977,280.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "FT-1407",
+      "current_drishti_price": null,
+      "desired_drishti_price": 119610.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9119,610.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "FT-1414",
+      "current_drishti_price": null,
+      "desired_drishti_price": 91480.0,
+      "reason": "Update drishti_price to 2023 list price \u20b991,480.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "FT-1421",
+      "current_drishti_price": null,
+      "desired_drishti_price": 136810.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9136,810.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "FT-1428",
+      "current_drishti_price": null,
+      "desired_drishti_price": 106130.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9106,130.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "FT-1435",
+      "current_drishti_price": null,
+      "desired_drishti_price": 20490.0,
+      "reason": "Update drishti_price to 2023 list price \u20b920,490.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "FT-1449",
+      "current_drishti_price": null,
+      "desired_drishti_price": 130460.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9130,460.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "FT-1456",
+      "current_drishti_price": null,
+      "desired_drishti_price": 44910.0,
+      "reason": "Update drishti_price to 2023 list price \u20b944,910.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "FT-1463",
+      "current_drishti_price": null,
+      "desired_drishti_price": 174600.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9174,600.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "FT-1470",
+      "current_drishti_price": null,
+      "desired_drishti_price": 136810.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9136,810.00",
+      "action_type": "PATCH"
+    },
+    {
+      "sku": "FT-1477",
+      "current_drishti_price": null,
+      "desired_drishti_price": 116960.0,
+      "reason": "Update drishti_price to 2023 list price \u20b9116,960.00",
+      "action_type": "PATCH"
+    }
+  ],
+  "flowtech_actions": [],
+  "salestrack_actions": [],
+  "metadata": {
+    "total_products": 120,
+    "products_requiring_update": 113,
+    "products_already_correct": 0,
+    "products_with_null_2023_prices": 7,
+    "null_price_skus": [
+      "CP-128",
+      "SM-130",
+      "SM-132",
+      "SM-136",
+      "GV-103",
+      "GV-113",
+      "FT-1442"
+    ]
+  }
+}

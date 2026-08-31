@@ -1,0 +1,110 @@
+{
+  "task": "W1",
+  "dry_run": true,
+  "planned_actions": [
+    {
+      "action_id": "create_vendor_sri_ranga",
+      "description": "Create new vendor Sri Ranga Castings in DRISHTI ERP",
+      "method": "POST",
+      "endpoint": "/erp/vendors",
+      "payload": {
+        "vendor_name": "Sri Ranga Castings",
+        "gstin": "33AAACS1234R1ZK",
+        "city": "Coimbatore",
+        "state": "TN",
+        "payment_terms_days": 45,
+        "msme_registered": "Y",
+        "source_system": "DRI",
+        "trial_po_cap": 200000.0
+      },
+      "expected_status": 201,
+      "preconditions": [],
+      "verification_endpoint": "/erp/vendors",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "approve_cfo",
+      "description": "Record CFO approval for Sri Ranga Castings",
+      "method": "POST",
+      "endpoint": "/erp/approvals",
+      "payload": {
+        "entity_type": "VENDOR",
+        "vendor_gstin": "33AAACS1234R1ZK",
+        "approver_role": "CFO",
+        "decision": "APPROVED"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": null,
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "approve_plant_head",
+      "description": "Record PLANT_HEAD approval for Sri Ranga Castings",
+      "method": "POST",
+      "endpoint": "/erp/approvals",
+      "payload": {
+        "entity_type": "VENDOR",
+        "vendor_gstin": "33AAACS1234R1ZK",
+        "approver_role": "PLANT_HEAD",
+        "decision": "APPROVED"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": null,
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "approve_qa",
+      "description": "Record QA approval for Sri Ranga Castings",
+      "method": "POST",
+      "endpoint": "/erp/approvals",
+      "payload": {
+        "entity_type": "VENDOR",
+        "vendor_gstin": "33AAACS1234R1ZK",
+        "approver_role": "QA",
+        "decision": "APPROVED"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": null,
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    }
+  ],
+  "metadata": {
+    "vendor_details": {
+      "vendor_name": "Sri Ranga Castings",
+      "gstin": "33AAACS1234R1ZK",
+      "city": "Coimbatore",
+      "state": "TN",
+      "payment_terms_days": 45,
+      "msme_registered": "Y",
+      "source_system": "DRI",
+      "trial_po_cap": 200000.0
+    },
+    "annual_spend": 1400000.0,
+    "is_direct_material": true,
+    "required_approvals": [
+      "CFO",
+      "PLANT_HEAD",
+      "QA"
+    ],
+    "already_existed": false
+  }
+}

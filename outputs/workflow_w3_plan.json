@@ -1,0 +1,775 @@
+{
+  "task": "W3",
+  "dry_run": true,
+  "planned_actions": [
+    {
+      "action_id": "merge_C-5047_into_C-5007",
+      "description": "Merge duplicate customer C-5047 (Agarwal Pumps & Motors (South)) into master C-5007",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5047",
+      "payload": {
+        "merged_into": "C-5007"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5047",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5059_into_C-5019",
+      "description": "Merge duplicate customer C-5059 (Apex Engineering Projects (II)) into master C-5019",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5059",
+      "payload": {
+        "merged_into": "C-5019"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5059",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5083_into_C-5019",
+      "description": "Merge duplicate customer C-5083 (APEX ENGINEERING PROJECTS) into master C-5019",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5083",
+      "payload": {
+        "merged_into": "C-5019"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5083",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5066_into_C-5026",
+      "description": "Merge duplicate customer C-5066 (Bharat Pump Centre (North)) into master C-5026",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5066",
+      "payload": {
+        "merged_into": "C-5026"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5066",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5043_into_C-5003",
+      "description": "Merge duplicate customer C-5043 (Bluewave Infra (South)) into master C-5003",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5043",
+      "payload": {
+        "merged_into": "C-5003"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5043",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5074_into_C-5034",
+      "description": "Merge duplicate customer C-5074 (Chola Pump Distributors (South)) into master C-5034",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5074",
+      "payload": {
+        "merged_into": "C-5034"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5074",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5057_into_C-5017",
+      "description": "Merge duplicate customer C-5057 (Crystal Aqua Systems (North)) into master C-5017",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5057",
+      "payload": {
+        "merged_into": "C-5017"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5057",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5064_into_C-5024",
+      "description": "Merge duplicate customer C-5064 (Dhanlaxmi Distributors (North)) into master C-5024",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5064",
+      "payload": {
+        "merged_into": "C-5024"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5064",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5081_into_C-5024",
+      "description": "Merge duplicate customer C-5081 (DHANLAXMI DISTRIBUTORS) into master C-5024",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5081",
+      "payload": {
+        "merged_into": "C-5024"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5081",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5062_into_C-5022",
+      "description": "Merge duplicate customer C-5062 (Emerald Pumping Solutions (North)) into master C-5022",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5062",
+      "payload": {
+        "merged_into": "C-5022"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5062",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5060_into_C-5020",
+      "description": "Merge duplicate customer C-5060 (Everflow Marketing (North)) into master C-5020",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5060",
+      "payload": {
+        "merged_into": "C-5020"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5060",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5084_into_C-5020",
+      "description": "Merge duplicate customer C-5084 (EVERFLOW MARKETING) into master C-5020",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5084",
+      "payload": {
+        "merged_into": "C-5020"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5084",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5065_into_C-5025",
+      "description": "Merge duplicate customer C-5065 (Falcon Industrial Sales (North)) into master C-5025",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5065",
+      "payload": {
+        "merged_into": "C-5025"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5065",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5075_into_C-5035",
+      "description": "Merge duplicate customer C-5075 (Ganga Valley Traders (II)) into master C-5035",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5075",
+      "payload": {
+        "merged_into": "C-5035"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5075",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5049_into_C-5009",
+      "description": "Merge duplicate customer C-5049 (Godavari Agri Pumps (South)) into master C-5009",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5049",
+      "payload": {
+        "merged_into": "C-5009"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5049",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5070_into_C-5030",
+      "description": "Merge duplicate customer C-5070 (Himgiri Traders (North)) into master C-5030",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5070",
+      "payload": {
+        "merged_into": "C-5030"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5070",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5052_into_C-5012",
+      "description": "Merge duplicate customer C-5052 (Hitech Water Solutions (North)) into master C-5012",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5052",
+      "payload": {
+        "merged_into": "C-5012"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5052",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5061_into_C-5021",
+      "description": "Merge duplicate customer C-5061 (Kaveri Engineering Sales (II)) into master C-5021",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5061",
+      "payload": {
+        "merged_into": "C-5021"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5061",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5056_into_C-5016",
+      "description": "Merge duplicate customer C-5056 (Krishna Sagar Enterprises (South)) into master C-5016",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5056",
+      "payload": {
+        "merged_into": "C-5016"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5056",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5054_into_C-5014",
+      "description": "Merge duplicate customer C-5054 (Lakshmi Industrial Agencies (North)) into master C-5014",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5054",
+      "payload": {
+        "merged_into": "C-5014"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5054",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5082_into_C-5014",
+      "description": "Merge duplicate customer C-5082 (LAKSHMI INDUSTRIAL AGENCIES) into master C-5014",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5082",
+      "payload": {
+        "merged_into": "C-5014"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5082",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5051_into_C-5011",
+      "description": "Merge duplicate customer C-5051 (Malwa Machinery Mart (North)) into master C-5011",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5051",
+      "payload": {
+        "merged_into": "C-5011"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5051",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5072_into_C-5032",
+      "description": "Merge duplicate customer C-5072 (Marudhar Machinery (North)) into master C-5032",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5072",
+      "payload": {
+        "merged_into": "C-5032"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5072",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5053_into_C-5013",
+      "description": "Merge duplicate customer C-5053 (Metro Fluid Controls (North)) into master C-5013",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5053",
+      "payload": {
+        "merged_into": "C-5013"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5053",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5058_into_C-5018",
+      "description": "Merge duplicate customer C-5058 (Navkar Trading Co (South)) into master C-5018",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5058",
+      "payload": {
+        "merged_into": "C-5018"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5058",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5046_into_C-5006",
+      "description": "Merge duplicate customer C-5046 (Northern Pump House (South)) into master C-5006",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5046",
+      "payload": {
+        "merged_into": "C-5006"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5046",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5077_into_C-5037",
+      "description": "Merge duplicate customer C-5077 (Orient Flow Equipments (North)) into master C-5037",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5077",
+      "payload": {
+        "merged_into": "C-5037"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5077",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5044_into_C-5004",
+      "description": "Merge duplicate customer C-5044 (Prakash Irrigation Stores (South)) into master C-5004",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5044",
+      "payload": {
+        "merged_into": "C-5004"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5044",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5045_into_C-5005",
+      "description": "Merge duplicate customer C-5045 (Pravin Pump Sales (South)) into master C-5005",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5045",
+      "payload": {
+        "merged_into": "C-5005"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5045",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5071_into_C-5031",
+      "description": "Merge duplicate customer C-5071 (Quality Fluid Systems (South)) into master C-5031",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5071",
+      "payload": {
+        "merged_into": "C-5031"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5071",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5073_into_C-5033",
+      "description": "Merge duplicate customer C-5073 (Rajdhani Engineering Co (South)) into master C-5033",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5073",
+      "payload": {
+        "merged_into": "C-5033"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5073",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5050_into_C-5010",
+      "description": "Merge duplicate customer C-5050 (Rathi Brothers (North)) into master C-5010",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5050",
+      "payload": {
+        "merged_into": "C-5010"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5050",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5068_into_C-5028",
+      "description": "Merge duplicate customer C-5068 (Sagar Hydro Systems (II)) into master C-5028",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5068",
+      "payload": {
+        "merged_into": "C-5028"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5068",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5063_into_C-5023",
+      "description": "Merge duplicate customer C-5063 (Shree Datta Agencies (South)) into master C-5023",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5063",
+      "payload": {
+        "merged_into": "C-5023"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5063",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5078_into_C-5038",
+      "description": "Merge duplicate customer C-5078 (Sri Balaji Agencies (North)) into master C-5038",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5078",
+      "payload": {
+        "merged_into": "C-5038"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5078",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5042_into_C-5002",
+      "description": "Merge duplicate customer C-5042 (Sundaram Sales Corporation (South)) into master C-5002",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5042",
+      "payload": {
+        "merged_into": "C-5002"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5042",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5055_into_C-5015",
+      "description": "Merge duplicate customer C-5055 (Techno Flow Solutions (North)) into master C-5015",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5055",
+      "payload": {
+        "merged_into": "C-5015"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5055",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5041_into_C-5001",
+      "description": "Merge duplicate customer C-5041 (Tirupati Pump House (South)) into master C-5001",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5041",
+      "payload": {
+        "merged_into": "C-5001"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5041",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5067_into_C-5027",
+      "description": "Merge duplicate customer C-5067 (Ujjwal Engineering (South)) into master C-5027",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5067",
+      "payload": {
+        "merged_into": "C-5027"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5067",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5080_into_C-5040",
+      "description": "Merge duplicate customer C-5080 (Vasavi Sales & Service (North)) into master C-5040",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5080",
+      "payload": {
+        "merged_into": "C-5040"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5080",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5048_into_C-5008",
+      "description": "Merge duplicate customer C-5048 (Vindhya Industrial Corp (South)) into master C-5008",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5048",
+      "payload": {
+        "merged_into": "C-5008"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5048",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5069_into_C-5029",
+      "description": "Merge duplicate customer C-5069 (Western Flow Controls (South)) into master C-5029",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5069",
+      "payload": {
+        "merged_into": "C-5029"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5069",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5085_into_C-5029",
+      "description": "Merge duplicate customer C-5085 (WESTERN FLOW CONTROLS) into master C-5029",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5085",
+      "payload": {
+        "merged_into": "C-5029"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5085",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5079_into_C-5039",
+      "description": "Merge duplicate customer C-5079 (Yamuna Industrial Traders (South)) into master C-5039",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5079",
+      "payload": {
+        "merged_into": "C-5039"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5079",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    },
+    {
+      "action_id": "merge_C-5076_into_C-5036",
+      "description": "Merge duplicate customer C-5076 (Zenith Pump Solutions (South)) into master C-5036",
+      "method": "PATCH",
+      "endpoint": "/crm/customers/C-5076",
+      "payload": {
+        "merged_into": "C-5036"
+      },
+      "expected_status": 200,
+      "preconditions": [],
+      "verification_endpoint": "/crm/customers/C-5076",
+      "executed": false,
+      "status_code": null,
+      "response_body": null,
+      "verified": false,
+      "error": null
+    }
+  ],
+  "metadata": {
+    "total_customers": 85,
+    "planned_merges": 45
+  }
+}

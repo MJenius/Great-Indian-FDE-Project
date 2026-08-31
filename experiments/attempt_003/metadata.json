@@ -1,0 +1,23 @@
+{
+  "attempt_id": "ATTEMPT-003",
+  "timestamp_utc": "2026-08-31T16:47:52.140442+00:00",
+  "hypothesis": "Disciplined hybrid policy wording (retaining essential policy qualifiers for K-02, K-05, K-09, K-10, K-12 while keeping K-01, K-03, K-06, K-07, K-08, K-11 naturally concise) matches the hidden evaluator standard.",
+  "purpose": "Evaluate balanced policy-verbatim canonical strings against hidden evaluator.",
+  "reconciliation_sha256": "7b1075b7adf90815f4d767cef2b6235f2df355f77501e48b4cbd38cced0e9801",
+  "knowledge_sha256": "79992e35d8498b66d27d094bfc8ac6f461860bae61666ea5f16f98cee33fca45",
+  "files": {
+    "reconciliation_submission.csv": {
+      "rows": 250,
+      "sha256": "7b1075b7adf90815f4d767cef2b6235f2df355f77501e48b4cbd38cced0e9801"
+    },
+    "knowledge_submission.csv": {
+      "rows": 12,
+      "sha256": "79992e35d8498b66d27d094bfc8ac6f461860bae61666ea5f16f98cee33fca45"
+    }
+  },
+  "score_result": {
+    "composite_score": null,
+    "breakdown": null,
+    "notes": "Candidate prepared and archived for Attempt 003."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attempt_id": "ATTEMPT-001",
+  "timestamp_utc": "2026-08-31T16:37:08.689394+00:00",
+  "hypothesis": "Canonical deterministic precedence and date-aware policy resolution establish the baseline.",
+  "purpose": "Establish initial score benchmark against hidden competition evaluator.",
+  "reconciliation_sha256": "7b1075b7adf90815f4d767cef2b6235f2df355f77501e48b4cbd38cced0e9801",
+  "knowledge_sha256": "3618cfe3c326c576b44dd881139cc608bd2ea19cbb6c8b0ada3163c892d53253",
+  "files": {
+    "reconciliation_submission.csv": {
+      "rows": 250,
+      "sha256": "7b1075b7adf90815f4d767cef2b6235f2df355f77501e48b4cbd38cced0e9801"
+    },
+    "knowledge_submission.csv": {
+      "rows": 12,
+      "sha256": "3618cfe3c326c576b44dd881139cc608bd2ea19cbb6c8b0ada3163c892d53253"
+    }
+  },
+  "reconciliation_config": {
+    "precedence": [
+      "MISSING_PO",
+      "VENDOR_MISMATCH",
+      "UOM_MISMATCH",
+      "QTY_MISMATCH",
+      "RATE_MISMATCH",
+      "GST_ERROR",
+      "DUPLICATE_INVOICE"
+    ],
+    "rate_tolerance_inr": 0.05,
+    "gst_tolerance_inr": 0.05,
+    "uom_factor_suppression": true
+  },
+  "score_result": {
+    "composite_score": null,
+    "breakdown": null,
+    "notes": "Awaiting official evaluator feedback."
+  }
+}

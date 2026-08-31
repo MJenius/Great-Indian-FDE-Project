@@ -1,0 +1,261 @@
+po_number,po_date,vendor_id,sku,description,uom,qty,rate,po_value,plant
+PO/2026/1400,2026-01-20,V-1009,BV-124,"8"" Lug Type Butterfly Valve",Nos,13,17773.86,231060.18,Pune-Bhosari
+PO/2026/1401,2025-10-20,FTV-1052,CP-162,1 HP Monoblock Centrifugal Pump,Nos,7,90611.52,634280.64,Coimbatore
+PO/2026/1402,2025-12-26,V-1027,BV-111,"3"" Wafer Type Butterfly Valve",Nos,64,5054.13,323464.32,Pune-Bhosari
+PO/2026/1403,2025-05-17,FTV-1050,CP-137,5 HP End-Suction Centrifugal Pump,Nos,6,181670.54,1090023.24,Vadodara
+PO/2026/1404,2026-02-10,V-1043,CP-108,5 HP End-Suction Centrifugal Pump,Nos,5,121911.47,609557.35,Pune-Bhosari
+PO/2026/1405,2025-12-13,V-1004,GV-126,"2"" CI Class 125 Gate Valve",Nos,91,23420.5,2131265.5,Pune-Bhosari
+PO/2026/1406,2025-11-07,V-1031,CP-131,20 HP Multistage Centrifugal Pump,Nos,16,75855.45,1213687.2,Pune-Bhosari
+PO/2026/1407,2025-10-09,FTV-1046,GV-112,"3"" CI Class 125 Gate Valve",Nos,5,10974.58,54872.9,Coimbatore
+PO/2026/1408,2025-12-29,FTV-1049,SM-106,1 HP Borewell Submersible Pump,Nos,1,109795.32,109795.32,Vadodara
+PO/2026/1409,2025-09-13,V-1022,SP-117,Impeller Kit Spares Kit,Nos,30,6680.08,200402.4,Pune-Bhosari
+PO/2026/1410,2026-05-15,V-1019,GV-136,"6"" CS Class 150 Gate Valve",Nos,33,1692.72,55859.76,Vadodara
+PO/2026/1411,2025-07-11,V-1028,CP-111,15 HP Process Centrifugal Pump,Nos,9,13457.02,121113.18,Vadodara
+PO/2026/1412,2026-07-20,V-1033,SP-115,Mechanical Seal Kit Spares Kit,Nos,150,280.04,42006.0,Coimbatore
+PO/2026/1413,2026-07-10,V-1027,CP-119,3 HP End-Suction Centrifugal Pump,Nos,1,130338.02,130338.02,Vadodara
+PO/2026/1414,2025-09-29,FTV-1046,SM-106,1 HP Borewell Submersible Pump,Nos,5,91837.66,459188.3,Vadodara
+PO/2026/1415,2025-04-26,V-1023,SP-118,Coupling Kit Spares Kit,Nos,20,457.89,9157.8,Coimbatore
+PO/2026/1416,2026-05-18,V-1011,SM-127,5 HP Dewatering Submersible Pump,Nos,10,68362.64,683626.4,Pune-Bhosari
+PO/2026/1417,2026-04-13,V-1042,FT-1435,15 HP Process Centrifugal Pump (FlowTech),Nos,3,13806.88,41420.64,Pune-Bhosari
+PO/2026/1418,2025-07-01,V-1019,BV-109,"4"" Wafer Type Butterfly Valve",Nos,117,22909.38,2680397.46,Pune-Bhosari
+PO/2026/1419,2025-11-14,V-1032,BV-120,"6"" Lug Type Butterfly Valve",Nos,53,21968.92,1164352.76,Coimbatore
+PO/2026/1420,2025-11-23,V-1021,FT-1456,3 HP Openwell Submersible Pump (FlowTech),Nos,7,25651.39,179559.73,Vadodara
+PO/2026/1421,2025-12-13,V-1017,SP-114,Wear Ring Set Spares Kit,Nos,30,606.96,18208.8,Pune-Bhosari
+PO/2026/1422,2026-04-19,FTV-1047,GV-101,"2"" CI Class 125 Gate Valve",Nos,138,9091.07,1254567.66,Pune-Bhosari
+PO/2026/1423,2025-12-23,FTV-1049,SM-118,1 HP Borewell Submersible Pump,Nos,9,34121.46,307093.14,Vadodara
+PO/2026/1424,2025-10-08,FTV-1046,CP-163,1 HP Monoblock Centrifugal Pump,Nos,9,67245.67,605211.03,Vadodara
+PO/2026/1425,2026-02-27,FTV-1051,SM-135,3 HP Openwell Submersible Pump,Nos,7,25762.57,180337.99,Vadodara
+PO/2026/1426,2025-08-05,V-1042,BV-118,"6"" Lug Type Butterfly Valve",Nos,87,13261.57,1153756.59,Pune-Bhosari
+PO/2026/1427,2025-08-19,V-1030,BV-115,"4"" Wafer Type Butterfly Valve",Nos,33,11173.52,368726.16,Vadodara
+PO/2026/1428,2026-02-24,V-1029,GV-116,"4"" CS Class 150 Gate Valve",Nos,177,16155.61,2859542.97,Vadodara
+PO/2026/1429,2026-03-23,V-1042,BV-103,"3"" Wafer Type Butterfly Valve",Nos,44,16365.35,720075.4,Vadodara
+PO/2026/1430,2026-02-28,V-1005,GV-132,"8"" SS Class 300 Gate Valve",Nos,22,8886.29,195498.38,Vadodara
+PO/2026/1431,2025-05-24,V-1003,FT-1428,5 HP Dewatering Submersible Pump (FlowTech),Nos,10,73394.63,733946.3,Vadodara
+PO/2026/1432,2026-04-24,V-1013,FT-1421,15 HP Process Centrifugal Pump (FlowTech),Nos,19,83518.89,1586858.91,Pune-Bhosari
+PO/2026/1433,2025-05-28,V-1033,CP-117,3 HP End-Suction Centrifugal Pump,Nos,15,49745.61,746184.15,Vadodara
+PO/2026/1434,2026-06-18,V-1010,SP-107,Gasket Set Spares Kit,Nos,30,190.96,5728.8,Pune-Bhosari
+PO/2026/1435,2025-09-18,V-1001,CP-158,10 HP Process Centrifugal Pump,Nos,17,42773.27,727145.59,Coimbatore
+PO/2026/1436,2026-02-09,V-1002,FT-1407,1 HP Monoblock Centrifugal Pump (FlowTech),Nos,6,74143.67,444862.02,Coimbatore
+PO/2026/1437,2025-12-18,V-1029,GV-135,"8"" SS Class 300 Gate Valve",Nos,129,14451.43,1864234.47,Vadodara
+PO/2026/1438,2026-01-02,V-1037,BV-106,"3"" Wafer Type Butterfly Valve",Nos,20,14142.96,282859.2,Coimbatore
+PO/2026/1439,2025-10-02,V-1023,SM-116,7.5 HP Sewage Submersible Pump,Nos,6,107165.03,642990.18,Vadodara
+PO/2026/1440,2026-07-10,V-1042,GV-133,"2"" CI Class 125 Gate Valve",Nos,190,1441.28,273843.2,Coimbatore
+PO/2026/1441,2025-12-14,FTV-1048,SP-109,Coupling Kit Spares Kit,Nos,100,4175.08,417508.0,Vadodara
+PO/2026/1442,2025-12-22,V-1013,CP-119,3 HP End-Suction Centrifugal Pump,Nos,13,118300.15,1537901.95,Vadodara
+PO/2026/1443,2025-08-21,V-1005,GV-126,"2"" CI Class 125 Gate Valve",Nos,138,22921.45,3163160.1,Pune-Bhosari
+PO/2026/1444,2026-06-01,FTV-1053,CP-160,3 HP End-Suction Centrifugal Pump,Nos,5,47638.86,238194.3,Pune-Bhosari
+PO/2026/1445,2025-12-28,V-1040,CP-114,0.5 HP Monoblock Centrifugal Pump,Nos,7,90243.7,631705.9,Pune-Bhosari
+PO/2026/1446,2025-09-28,V-1031,FT-1414,10 HP Process Centrifugal Pump (FlowTech),Nos,16,59835.85,957373.6,Vadodara
+PO/2026/1447,2026-02-07,V-1038,CP-129,5 HP End-Suction Centrifugal Pump,Nos,1,67631.75,67631.75,Pune-Bhosari
+PO/2026/1448,2026-06-21,FTV-1048,SP-117,Impeller Kit Spares Kit,Nos,10,7049.23,70492.3,Vadodara
+PO/2026/1449,2025-05-31,V-1021,SP-123,Mechanical Seal Kit Spares Kit,Nos,30,156.16,4684.8,Vadodara
+PO/2026/1450,2025-12-03,V-1037,CP-162,1 HP Monoblock Centrifugal Pump,Nos,16,89993.83,1439901.28,Coimbatore
+PO/2026/1451,2025-06-24,V-1020,GV-124,"8"" SS Class 300 Gate Valve",Nos,124,16323.31,2024090.44,Vadodara
+PO/2026/1452,2026-04-08,V-1024,CP-143,15 HP Process Centrifugal Pump,Nos,18,88130.54,1586349.72,Vadodara
+PO/2026/1453,2025-10-30,V-1018,CP-173,20 HP Multistage Centrifugal Pump,Nos,1,27920.14,27920.14,Vadodara
+PO/2026/1454,2026-05-30,V-1012,GV-132,"8"" SS Class 300 Gate Valve",Nos,57,9514.55,542329.35,Pune-Bhosari
+PO/2026/1455,2025-12-17,V-1013,SM-124,5 HP Dewatering Submersible Pump,Nos,2,111333.76,222667.52,Pune-Bhosari
+PO/2026/1456,2025-08-28,V-1041,SM-108,5 HP Dewatering Submersible Pump,Nos,6,115765.5,694593.0,Pune-Bhosari
+PO/2026/1457,2025-11-28,FTV-1051,SP-126,Bearing & Sleeve Kit Spares Kit,Nos,20,7256.51,145130.2,Pune-Bhosari
+PO/2026/1458,2025-10-20,V-1009,SM-135,3 HP Openwell Submersible Pump,Nos,1,28978.9,28978.9,Vadodara
+PO/2026/1459,2025-09-21,V-1005,CP-125,0.5 HP Monoblock Centrifugal Pump,Nos,13,173609.87,2256928.31,Coimbatore
+PO/2026/1460,2025-04-25,V-1016,SM-134,7.5 HP Sewage Submersible Pump,Nos,15,21042.22,315633.3,Coimbatore
+PO/2026/1461,2025-11-06,V-1024,CP-146,7.5 HP Split-Case Centrifugal Pump,Nos,18,56876.13,1023770.34,Pune-Bhosari
+PO/2026/1462,2026-06-07,V-1021,SM-127,5 HP Dewatering Submersible Pump,Nos,14,59183.44,828568.16,Coimbatore
+PO/2026/1463,2025-09-16,V-1003,GV-117,"3"" CI Class 125 Gate Valve",Nos,103,8726.19,898797.57,Vadodara
+PO/2026/1464,2025-07-28,FTV-1050,CP-155,15 HP Process Centrifugal Pump,Nos,6,145245.26,871471.56,Pune-Bhosari
+PO/2026/1465,2025-04-18,FTV-1049,CP-152,7.5 HP Split-Case Centrifugal Pump,Nos,5,96329.43,481647.15,Coimbatore
+PO/2026/1466,2025-04-01,V-1038,GV-132,"8"" SS Class 300 Gate Valve",Nos,65,8096.52,526273.8,Vadodara
+PO/2026/1467,2026-05-20,FTV-1052,BV-111,"3"" Wafer Type Butterfly Valve",Nos,19,5104.61,96987.59,Vadodara
+PO/2026/1468,2026-05-12,V-1024,SM-118,1 HP Borewell Submersible Pump,Nos,14,37450.89,524312.46,Vadodara
+PO/2026/1469,2026-07-06,V-1019,GV-128,"2"" CI Class 125 Gate Valve",Nos,174,4865.23,846550.02,Coimbatore
+PO/2026/1470,2025-06-24,V-1021,FT-1407,1 HP Monoblock Centrifugal Pump (FlowTech),Nos,12,76707.03,920484.36,Coimbatore
+PO/2026/1471,2025-05-17,V-1035,CP-129,5 HP End-Suction Centrifugal Pump,Nos,15,76989.86,1154847.9,Coimbatore
+PO/2026/1472,2025-10-04,V-1013,SP-107,Gasket Set Spares Kit,Nos,150,199.56,29934.0,Pune-Bhosari
+PO/2026/1473,2025-09-15,V-1027,GV-131,"2"" CI Class 125 Gate Valve",Nos,131,7968.19,1043832.89,Coimbatore
+PO/2026/1474,2025-05-29,FTV-1049,CP-136,5 HP End-Suction Centrifugal Pump,Nos,18,150729.44,2713129.92,Pune-Bhosari
+PO/2026/1475,2025-09-23,V-1022,CP-171,5 HP End-Suction Centrifugal Pump,Nos,19,134441.86,2554395.34,Vadodara
+PO/2026/1476,2025-04-14,V-1021,SP-107,Gasket Set Spares Kit,Nos,150,211.01,31651.5,Coimbatore
+PO/2026/1477,2025-06-07,V-1001,BV-103,"3"" Wafer Type Butterfly Valve",Nos,25,15160.58,379014.5,Vadodara
+PO/2026/1478,2025-11-02,V-1018,FT-1414,10 HP Process Centrifugal Pump (FlowTech),Nos,9,63664.9,572984.1,Coimbatore
+PO/2026/1479,2026-03-21,V-1036,SP-125,Gasket Set Spares Kit,Nos,10,142.44,1424.4,Pune-Bhosari
+PO/2026/1480,2025-09-19,V-1032,CP-149,0.5 HP Monoblock Centrifugal Pump,Nos,13,154649.6,2010444.8,Pune-Bhosari
+PO/2026/1481,2026-04-15,V-1021,CP-147,3 HP End-Suction Centrifugal Pump,Nos,3,128425.54,385276.62,Vadodara
+PO/2026/1482,2026-03-31,V-1043,FT-1407,1 HP Monoblock Centrifugal Pump (FlowTech),Nos,5,77929.94,389649.7,Pune-Bhosari
+PO/2026/1483,2026-05-25,V-1034,GV-131,"2"" CI Class 125 Gate Valve",Nos,152,8187.76,1244539.52,Pune-Bhosari
+PO/2026/1484,2025-05-15,V-1038,BV-112,"4"" Wafer Type Butterfly Valve",Nos,9,1580.18,14221.62,Vadodara
+PO/2026/1485,2025-10-11,V-1022,GV-128,"2"" CI Class 125 Gate Valve",Nos,104,4630.04,481524.16,Vadodara
+PO/2026/1486,2025-08-02,V-1025,SM-111,2 HP Borewell Submersible Pump,Nos,15,121998.56,1829978.4,Vadodara
+PO/2026/1487,2025-11-08,V-1028,GV-129,"6"" CS Class 150 Gate Valve",Nos,35,8771.36,306997.6,Coimbatore
+PO/2026/1488,2026-03-28,V-1004,CP-159,0.5 HP Monoblock Centrifugal Pump,Nos,10,94871.45,948714.5,Coimbatore
+PO/2026/1489,2025-11-11,V-1027,SP-109,Coupling Kit Spares Kit,Nos,150,4008.19,601228.5,Vadodara
+PO/2026/1490,2026-03-07,V-1018,SP-118,Coupling Kit Spares Kit,Nos,30,430.48,12914.4,Pune-Bhosari
+PO/2026/1491,2025-11-03,V-1014,BV-123,"4"" Wafer Type Butterfly Valve",Nos,102,2873.54,293101.08,Coimbatore
+PO/2026/1492,2026-07-20,V-1025,SP-105,Wear Ring Set Spares Kit,Nos,50,6443.42,322171.0,Pune-Bhosari
+PO/2026/1493,2025-07-04,V-1008,FT-1428,5 HP Dewatering Submersible Pump (FlowTech),Nos,14,65955.47,923376.58,Pune-Bhosari
+PO/2026/1494,2025-05-28,V-1021,SM-114,3 HP Openwell Submersible Pump,Nos,11,57005.9,627064.9,Vadodara
+PO/2026/1495,2025-12-14,V-1014,CP-158,10 HP Process Centrifugal Pump,Nos,4,41568.8,166275.2,Coimbatore
+PO/2026/1496,2025-05-14,FTV-1049,SM-106,1 HP Borewell Submersible Pump,Nos,12,105085.8,1261029.6,Vadodara
+PO/2026/1497,2025-12-11,V-1015,GV-111,"2"" CI Class 125 Gate Valve",Nos,27,19216.75,518852.25,Coimbatore
+PO/2026/1498,2025-05-28,V-1011,SM-139,7.5 HP Sewage Submersible Pump,Nos,11,71854.42,790398.62,Vadodara
+PO/2026/1499,2025-05-14,V-1020,SP-120,Wear Ring Set Spares Kit,Nos,200,3447.54,689508.0,Pune-Bhosari
+PO/2026/1500,2025-07-16,V-1004,BV-128,"3"" Wafer Type Butterfly Valve",Nos,28,1950.59,54616.52,Vadodara
+PO/2026/1501,2025-10-11,V-1029,BV-128,"3"" Wafer Type Butterfly Valve",Nos,83,1710.69,141987.27,Coimbatore
+PO/2026/1502,2025-05-21,V-1043,GV-124,"8"" SS Class 300 Gate Valve",Nos,114,17764.81,2025188.34,Coimbatore
+PO/2026/1503,2026-05-20,V-1033,SP-103,Impeller Kit Spares Kit,Nos,200,5781.65,1156330.0,Coimbatore
+PO/2026/1504,2025-06-22,FTV-1050,GV-123,"8"" SS Class 300 Gate Valve",Nos,124,5432.41,673618.84,Pune-Bhosari
+PO/2026/1505,2026-05-05,V-1020,SM-134,7.5 HP Sewage Submersible Pump,Nos,1,17773.06,17773.06,Coimbatore
+PO/2026/1506,2026-05-10,V-1020,BV-124,"8"" Lug Type Butterfly Valve",Nos,108,14828.53,1601481.24,Coimbatore
+PO/2026/1507,2026-06-30,V-1023,SM-134,7.5 HP Sewage Submersible Pump,Nos,5,21419.26,107096.3,Vadodara
+PO/2026/1508,2025-12-01,V-1020,CP-105,10 HP Process Centrifugal Pump,Nos,5,113042.53,565212.65,Vadodara
+PO/2026/1509,2026-06-23,V-1016,GV-135,"8"" SS Class 300 Gate Valve",Nos,60,15069.97,904198.2,Pune-Bhosari
+PO/2026/1510,2025-07-30,V-1019,GV-123,"8"" SS Class 300 Gate Valve",Nos,120,5044.01,605281.2,Vadodara
+PO/2026/1511,2026-06-01,V-1022,CP-111,15 HP Process Centrifugal Pump,Nos,9,12769.2,114922.8,Coimbatore
+PO/2026/1512,2026-01-16,V-1007,GV-105,"2"" CI Class 125 Gate Valve",Nos,39,24213.03,944308.17,Pune-Bhosari
+PO/2026/1513,2025-12-15,V-1008,BV-128,"3"" Wafer Type Butterfly Valve",Nos,8,1930.13,15441.04,Coimbatore
+PO/2026/1514,2026-01-06,V-1032,SM-111,2 HP Borewell Submersible Pump,Nos,12,119477.13,1433725.56,Coimbatore
+PO/2026/1515,2026-02-25,FTV-1048,BV-120,"6"" Lug Type Butterfly Valve",Nos,21,19884.16,417567.36,Vadodara
+PO/2026/1516,2026-01-21,V-1002,BV-120,"6"" Lug Type Butterfly Valve",Nos,46,23767.61,1093310.06,Vadodara
+PO/2026/1517,2026-05-21,V-1028,FT-1414,10 HP Process Centrifugal Pump (FlowTech),Nos,2,57913.98,115827.96,Vadodara
+PO/2026/1518,2025-09-21,V-1010,SP-128,Impeller Kit Spares Kit,Nos,100,1653.75,165375.0,Vadodara
+PO/2026/1519,2025-04-29,V-1033,CP-131,20 HP Multistage Centrifugal Pump,Nos,14,79279.24,1109909.36,Pune-Bhosari
+PO/2026/1520,2025-04-20,V-1021,FT-1414,10 HP Process Centrifugal Pump (FlowTech),Nos,6,55340.7,332044.2,Pune-Bhosari
+PO/2026/1521,2026-05-24,V-1023,CP-111,15 HP Process Centrifugal Pump,Nos,6,13804.82,82828.92,Coimbatore
+PO/2026/1522,2025-04-19,V-1030,SM-139,7.5 HP Sewage Submersible Pump,Nos,5,73847.72,369238.6,Coimbatore
+PO/2026/1523,2026-02-08,V-1005,CP-105,10 HP Process Centrifugal Pump,Nos,17,105021.68,1785368.56,Coimbatore
+PO/2026/1524,2025-05-12,V-1014,CP-117,3 HP End-Suction Centrifugal Pump,Nos,14,55469.76,776576.64,Pune-Bhosari
+PO/2026/1525,2026-07-18,V-1016,GV-128,"2"" CI Class 125 Gate Valve",Nos,141,5129.58,723270.78,Pune-Bhosari
+PO/2026/1526,2025-12-27,V-1003,SP-107,Gasket Set Spares Kit,Nos,10,207.45,2074.5,Coimbatore
+PO/2026/1527,2026-06-12,V-1007,SM-102,5 HP Dewatering Submersible Pump,Nos,14,21786.27,305007.78,Pune-Bhosari
+PO/2026/1528,2025-10-14,V-1003,CP-129,5 HP End-Suction Centrifugal Pump,Nos,6,76706.2,460237.2,Vadodara
+PO/2026/1529,2026-05-31,V-1008,CP-146,7.5 HP Split-Case Centrifugal Pump,Nos,1,57579.67,57579.67,Pune-Bhosari
+PO/2026/1530,2026-04-18,FTV-1046,CP-147,3 HP End-Suction Centrifugal Pump,Nos,18,131407.09,2365327.62,Pune-Bhosari
+PO/2026/1531,2026-07-01,V-1006,CP-173,20 HP Multistage Centrifugal Pump,Nos,14,24999.62,349994.68,Vadodara
+PO/2026/1532,2026-01-08,V-1023,SP-109,Coupling Kit Spares Kit,Nos,20,4119.77,82395.4,Pune-Bhosari
+PO/2026/1533,2026-05-10,V-1008,SM-103,5 HP Dewatering Submersible Pump,Nos,11,56619.22,622811.42,Vadodara
+PO/2026/1534,2025-05-21,FTV-1050,BV-124,"8"" Lug Type Butterfly Valve",Nos,36,14735.67,530484.12,Vadodara
+PO/2026/1535,2025-04-20,FTV-1051,SP-118,Coupling Kit Spares Kit,Nos,100,413.5,41350.0,Pune-Bhosari
+PO/2026/1536,2025-06-02,V-1011,BV-103,"3"" Wafer Type Butterfly Valve",Nos,28,14552.05,407457.4,Vadodara
+PO/2026/1537,2025-04-08,V-1016,CP-137,5 HP End-Suction Centrifugal Pump,Nos,8,150993.33,1207946.64,Coimbatore
+PO/2026/1538,2026-01-28,FTV-1053,CP-172,15 HP Process Centrifugal Pump,Nos,11,90781.9,998600.9,Vadodara
+PO/2026/1539,2025-06-13,V-1008,BV-115,"4"" Wafer Type Butterfly Valve",Nos,81,12115.56,981360.36,Pune-Bhosari
+PO/2026/1540,2025-06-11,V-1042,CP-134,20 HP Multistage Centrifugal Pump,Nos,3,156740.76,470222.28,Coimbatore
+PO/2026/1541,2025-11-23,V-1041,SM-118,1 HP Borewell Submersible Pump,Nos,1,37940.42,37940.42,Pune-Bhosari
+PO/2026/1542,2025-05-22,V-1007,FT-1470,15 HP Process Centrifugal Pump (FlowTech) (FlowTech),Nos,14,79038.36,1106537.04,Coimbatore
+PO/2026/1543,2026-02-15,V-1008,FT-1477,7.5 HP Sewage Submersible Pump (FlowTech),Nos,9,70437.79,633940.11,Coimbatore
+PO/2026/1544,2025-07-06,V-1017,BV-123,"4"" Wafer Type Butterfly Valve",Nos,67,2720.1,182246.7,Vadodara
+PO/2026/1545,2025-09-02,FTV-1053,CP-108,5 HP End-Suction Centrifugal Pump,Nos,20,136888.47,2737769.4,Pune-Bhosari
+PO/2026/1546,2025-05-23,V-1041,BV-111,"3"" Wafer Type Butterfly Valve",Nos,13,5784.36,75196.68,Coimbatore
+PO/2026/1547,2026-05-15,V-1001,GV-126,"2"" CI Class 125 Gate Valve",Nos,72,22104.63,1591533.36,Coimbatore
+PO/2026/1548,2025-08-24,V-1042,CP-140,10 HP Process Centrifugal Pump,Nos,2,120726.18,241452.36,Coimbatore
+PO/2026/1549,2025-09-21,FTV-1046,BV-111,"3"" Wafer Type Butterfly Valve",Nos,49,6119.42,299851.58,Coimbatore
+PO/2026/1550,2025-05-01,V-1003,CP-119,3 HP End-Suction Centrifugal Pump,Nos,19,118638.93,2254139.67,Pune-Bhosari
+PO/2026/1551,2025-07-13,V-1016,BV-124,"8"" Lug Type Butterfly Valve",Nos,40,14215.1,568604.0,Vadodara
+PO/2026/1552,2026-01-22,V-1003,SP-120,Wear Ring Set Spares Kit,Nos,30,3527.97,105839.1,Vadodara
+PO/2026/1553,2025-06-14,FTV-1054,GV-119,"3"" CI Class 125 Gate Valve",Nos,64,15752.87,1008183.68,Coimbatore
+PO/2026/1554,2025-11-13,FTV-1049,SP-110,Mechanical Seal Kit Spares Kit,Nos,10,2310.4,23104.0,Vadodara
+PO/2026/1555,2026-02-25,V-1015,CP-111,15 HP Process Centrifugal Pump,Nos,16,11306.67,180906.72,Pune-Bhosari
+PO/2026/1556,2025-11-18,V-1023,SP-107,Gasket Set Spares Kit,Nos,10,187.67,1876.7,Pune-Bhosari
+PO/2026/1557,2026-01-24,V-1031,CP-137,5 HP End-Suction Centrifugal Pump,Nos,15,157548.08,2363221.2,Coimbatore
+PO/2026/1558,2026-03-01,V-1019,BV-103,"3"" Wafer Type Butterfly Valve",Nos,23,16066.34,369525.82,Pune-Bhosari
+PO/2026/1559,2026-04-04,FTV-1051,CP-159,0.5 HP Monoblock Centrifugal Pump,Nos,3,103838.62,311515.86,Pune-Bhosari
+PO/2026/1560,2026-02-03,V-1028,SM-103,5 HP Dewatering Submersible Pump,Nos,1,61228.82,61228.82,Vadodara
+PO/2026/1561,2025-05-31,V-1041,CP-162,1 HP Monoblock Centrifugal Pump,Nos,13,98058.06,1274754.78,Pune-Bhosari
+PO/2026/1562,2026-07-01,V-1012,FT-1428,5 HP Dewatering Submersible Pump (FlowTech),Nos,10,68403.69,684036.9,Coimbatore
+PO/2026/1563,2026-01-15,FTV-1053,GV-111,"2"" CI Class 125 Gate Valve",Nos,154,15894.88,2447811.52,Vadodara
+PO/2026/1564,2026-05-24,V-1028,SM-108,5 HP Dewatering Submersible Pump,Nos,15,97085.81,1456287.15,Vadodara
+PO/2026/1565,2026-03-16,V-1009,SP-109,Coupling Kit Spares Kit,Nos,200,3834.47,766894.0,Pune-Bhosari
+PO/2026/1566,2025-07-19,V-1039,CP-117,3 HP End-Suction Centrifugal Pump,Nos,2,44885.16,89770.32,Vadodara
+PO/2026/1567,2025-11-15,V-1024,SM-103,5 HP Dewatering Submersible Pump,Nos,4,66690.46,266761.84,Vadodara
+PO/2026/1568,2025-04-09,V-1003,GV-126,"2"" CI Class 125 Gate Valve",Nos,55,22178.0,1219790.0,Vadodara
+PO/2026/1569,2026-03-25,V-1008,SM-111,2 HP Borewell Submersible Pump,Nos,9,107840.34,970563.06,Coimbatore
+PO/2026/1570,2025-05-22,V-1005,CP-110,1 HP Monoblock Centrifugal Pump,Nos,7,143562.43,1004937.01,Pune-Bhosari
+PO/2026/1571,2026-06-15,V-1010,FT-1477,7.5 HP Sewage Submersible Pump (FlowTech),Nos,11,70295.23,773247.53,Vadodara
+PO/2026/1572,2025-07-31,V-1041,SP-117,Impeller Kit Spares Kit,Nos,200,6171.52,1234304.0,Vadodara
+PO/2026/1573,2025-09-20,FTV-1054,SM-139,7.5 HP Sewage Submersible Pump,Nos,7,73119.95,511839.65,Coimbatore
+PO/2026/1574,2025-11-06,V-1043,SP-113,Mechanical Seal Kit Spares Kit,Nos,10,3181.73,31817.3,Coimbatore
+PO/2026/1575,2026-03-29,FTV-1049,CP-136,5 HP End-Suction Centrifugal Pump,Nos,14,133735.57,1872297.98,Pune-Bhosari
+PO/2026/1576,2026-02-19,V-1027,SM-121,3 HP Openwell Submersible Pump,Nos,12,41880.91,502570.92,Vadodara
+PO/2026/1577,2025-09-07,V-1037,BV-128,"3"" Wafer Type Butterfly Valve",Nos,50,1914.79,95739.5,Coimbatore
+PO/2026/1578,2026-06-22,V-1009,CP-159,0.5 HP Monoblock Centrifugal Pump,Nos,16,100361.33,1605781.28,Pune-Bhosari
+PO/2026/1579,2025-10-18,V-1019,FT-1449,3 HP End-Suction Centrifugal Pump (FlowTech),Nos,5,88135.8,440679.0,Pune-Bhosari
+PO/2026/1580,2026-03-26,FTV-1050,SP-105,Wear Ring Set Spares Kit,Nos,50,7766.39,388319.5,Pune-Bhosari
+PO/2026/1581,2026-06-14,V-1011,CP-163,1 HP Monoblock Centrifugal Pump,Nos,16,76691.08,1227057.28,Coimbatore
+PO/2026/1582,2026-07-04,V-1005,CP-171,5 HP End-Suction Centrifugal Pump,Nos,4,144956.88,579827.52,Pune-Bhosari
+PO/2026/1583,2025-12-27,V-1017,CP-152,7.5 HP Split-Case Centrifugal Pump,Nos,9,88559.15,797032.35,Vadodara
+PO/2026/1584,2025-12-28,V-1022,BV-124,"8"" Lug Type Butterfly Valve",Nos,91,14737.12,1341077.92,Vadodara
+PO/2026/1585,2025-07-02,V-1013,BV-113,"8"" Lug Type Butterfly Valve",Nos,84,17427.29,1463892.36,Pune-Bhosari
+PO/2026/1586,2025-05-06,V-1025,BV-118,"6"" Lug Type Butterfly Valve",Nos,83,11555.87,959137.21,Vadodara
+PO/2026/1587,2025-06-12,V-1038,CP-105,10 HP Process Centrifugal Pump,Nos,5,126738.59,633692.95,Pune-Bhosari
+PO/2026/1588,2025-08-22,V-1027,CP-149,0.5 HP Monoblock Centrifugal Pump,Nos,3,153082.64,459247.92,Pune-Bhosari
+PO/2026/1589,2025-09-10,FTV-1045,FT-1400,3 HP End-Suction Centrifugal Pump (FlowTech),Nos,20,52286.02,1045720.4,Coimbatore
+PO/2026/1590,2025-04-17,V-1037,GV-101,"2"" CI Class 125 Gate Valve",Nos,169,9108.49,1539334.81,Vadodara
+PO/2026/1591,2025-08-15,V-1021,SM-104,3 HP Openwell Submersible Pump,Nos,10,53027.96,530279.6,Coimbatore
+PO/2026/1592,2026-03-11,V-1010,CP-140,10 HP Process Centrifugal Pump,Nos,8,102572.2,820577.6,Pune-Bhosari
+PO/2026/1593,2026-04-03,V-1022,GV-133,"2"" CI Class 125 Gate Valve",Nos,190,1450.43,275581.7,Vadodara
+PO/2026/1594,2025-09-06,FTV-1050,CP-105,10 HP Process Centrifugal Pump,Nos,15,107988.66,1619829.9,Coimbatore
+PO/2026/1595,2026-04-14,FTV-1051,CP-172,15 HP Process Centrifugal Pump,Nos,13,83468.79,1085094.27,Vadodara
+PO/2026/1596,2026-02-24,FTV-1046,GV-136,"6"" CS Class 150 Gate Valve",Nos,113,1790.95,202377.35,Vadodara
+PO/2026/1597,2025-12-27,V-1037,GV-114,"2"" CI Class 125 Gate Valve",Nos,96,14033.24,1347191.04,Pune-Bhosari
+PO/2026/1598,2026-03-05,V-1044,GV-129,"6"" CS Class 150 Gate Valve",Nos,26,9794.78,254664.28,Vadodara
+PO/2026/1599,2025-06-15,V-1005,BV-115,"4"" Wafer Type Butterfly Valve",Nos,8,12079.74,96637.92,Vadodara
+PO/2026/1600,2026-07-06,V-1037,CP-108,5 HP End-Suction Centrifugal Pump,Nos,2,118516.35,237032.7,Pune-Bhosari
+PO/2026/1601,2026-01-13,V-1039,CP-172,15 HP Process Centrifugal Pump,Nos,1,77062.25,77062.25,Pune-Bhosari
+PO/2026/1602,2026-03-09,V-1020,CP-114,0.5 HP Monoblock Centrifugal Pump,Nos,11,96415.62,1060571.82,Coimbatore
+PO/2026/1603,2025-11-19,V-1025,CP-107,10 HP Process Centrifugal Pump,Nos,16,54014.01,864224.16,Coimbatore
+PO/2026/1604,2026-04-06,FTV-1050,CP-165,10 HP Process Centrifugal Pump,Nos,4,51471.31,205885.24,Coimbatore
+PO/2026/1605,2025-05-12,V-1007,SM-103,5 HP Dewatering Submersible Pump,Nos,4,58024.52,232098.08,Coimbatore
+PO/2026/1606,2025-09-11,V-1012,CP-125,0.5 HP Monoblock Centrifugal Pump,Nos,4,148843.67,595374.68,Vadodara
+PO/2026/1607,2025-08-17,V-1022,GV-135,"8"" SS Class 300 Gate Valve",Nos,7,15037.04,105259.28,Vadodara
+PO/2026/1608,2025-09-09,V-1035,GV-126,"2"" CI Class 125 Gate Valve",Nos,8,21315.19,170521.52,Pune-Bhosari
+PO/2026/1609,2026-06-15,V-1044,FT-1428,5 HP Dewatering Submersible Pump (FlowTech),Nos,8,68564.43,548515.44,Coimbatore
+PO/2026/1610,2025-10-22,V-1044,SM-102,5 HP Dewatering Submersible Pump,Nos,7,20598.16,144187.12,Vadodara
+PO/2026/1611,2025-12-22,V-1008,GV-141,"2"" CI Class 125 Gate Valve",Nos,71,15677.65,1113113.15,Vadodara
+PO/2026/1612,2025-11-25,V-1039,GV-112,"3"" CI Class 125 Gate Valve",Nos,186,10877.59,2023231.74,Vadodara
+PO/2026/1613,2025-04-21,V-1033,BV-118,"6"" Lug Type Butterfly Valve",Nos,67,12294.85,823754.95,Pune-Bhosari
+PO/2026/1614,2026-07-18,FTV-1047,SM-134,7.5 HP Sewage Submersible Pump,Nos,7,21032.4,147226.8,Vadodara
+PO/2026/1615,2025-08-07,V-1035,SM-114,3 HP Openwell Submersible Pump,Nos,2,55410.87,110821.74,Coimbatore
+PO/2026/1616,2026-06-02,V-1007,CP-160,3 HP End-Suction Centrifugal Pump,Nos,5,48887.31,244436.55,Pune-Bhosari
+PO/2026/1617,2025-10-15,V-1040,GV-107,"8"" SS Class 300 Gate Valve",Nos,121,9270.93,1121782.53,Pune-Bhosari
+PO/2026/1618,2025-05-14,V-1018,CP-117,3 HP End-Suction Centrifugal Pump,Nos,4,49414.76,197659.04,Coimbatore
+PO/2026/1619,2025-12-24,V-1012,SM-103,5 HP Dewatering Submersible Pump,Nos,6,57149.96,342899.76,Coimbatore
+PO/2026/1620,2026-02-11,V-1044,BV-111,"3"" Wafer Type Butterfly Valve",Nos,111,5007.42,555823.62,Coimbatore
+PO/2026/1621,2025-06-28,V-1015,SM-103,5 HP Dewatering Submersible Pump,Nos,10,66447.75,664477.5,Vadodara
+PO/2026/1622,2026-06-09,V-1006,BV-109,"4"" Wafer Type Butterfly Valve",Nos,113,22871.26,2584452.38,Coimbatore
+PO/2026/1623,2026-02-16,V-1011,BV-115,"4"" Wafer Type Butterfly Valve",Nos,55,14041.22,772267.1,Coimbatore
+PO/2026/1624,2026-04-06,V-1027,GV-123,"8"" SS Class 300 Gate Valve",Nos,172,5283.4,908744.8,Vadodara
+PO/2026/1625,2025-05-15,V-1003,SM-135,3 HP Openwell Submersible Pump,Nos,14,24833.68,347671.52,Coimbatore
+PO/2026/1626,2026-05-22,FTV-1045,SM-124,5 HP Dewatering Submersible Pump,Nos,8,110404.06,883232.48,Pune-Bhosari
+PO/2026/1627,2025-04-21,V-1015,BV-106,"3"" Wafer Type Butterfly Valve",Nos,120,13830.95,1659714.0,Coimbatore
+PO/2026/1628,2025-05-24,V-1004,FT-1449,3 HP End-Suction Centrifugal Pump (FlowTech),Nos,12,81244.94,974939.28,Coimbatore
+PO/2026/1629,2026-03-26,V-1027,BV-128,"3"" Wafer Type Butterfly Valve",Nos,20,1948.14,38962.8,Coimbatore
+PO/2026/1630,2025-07-20,V-1023,CP-103,1 HP Monoblock Centrifugal Pump,Nos,20,66025.75,1320515.0,Pune-Bhosari
+PO/2026/1631,2025-07-25,V-1019,CP-107,10 HP Process Centrifugal Pump,Nos,11,59550.14,655051.54,Vadodara
+PO/2026/1632,2025-05-07,V-1040,CP-152,7.5 HP Split-Case Centrifugal Pump,Nos,18,84336.75,1518061.5,Pune-Bhosari
+PO/2026/1633,2025-05-18,V-1029,SP-103,Impeller Kit Spares Kit,Nos,20,5626.37,112527.4,Pune-Bhosari
+PO/2026/1634,2026-03-25,V-1032,GV-123,"8"" SS Class 300 Gate Valve",Nos,113,5064.51,572289.63,Pune-Bhosari
+PO/2026/1635,2025-11-23,V-1040,CP-149,0.5 HP Monoblock Centrifugal Pump,Nos,12,170494.77,2045937.24,Pune-Bhosari
+PO/2026/1636,2026-04-29,FTV-1054,GV-102,"6"" CS Class 150 Gate Valve",Nos,133,19608.08,2607874.64,Vadodara
+PO/2026/1637,2025-12-31,FTV-1052,SM-118,1 HP Borewell Submersible Pump,Nos,9,30717.76,276459.84,Pune-Bhosari
+PO/2026/1638,2025-06-22,V-1042,FT-1435,15 HP Process Centrifugal Pump (FlowTech),Nos,5,14311.28,71556.4,Pune-Bhosari
+PO/2026/1639,2025-07-22,V-1012,SP-107,Gasket Set Spares Kit,Nos,10,203.04,2030.4,Coimbatore
+PO/2026/1640,2025-04-04,V-1017,SM-114,3 HP Openwell Submersible Pump,Nos,6,66384.05,398304.3,Pune-Bhosari
+PO/2026/1641,2025-05-18,FTV-1045,SM-111,2 HP Borewell Submersible Pump,Nos,3,101382.6,304147.8,Vadodara
+PO/2026/1642,2026-03-27,V-1018,SM-116,7.5 HP Sewage Submersible Pump,Nos,6,93566.23,561397.38,Coimbatore
+PO/2026/1643,2025-12-13,V-1010,CP-162,1 HP Monoblock Centrifugal Pump,Nos,6,87696.42,526178.52,Vadodara
+PO/2026/1644,2026-06-17,V-1004,FT-1428,5 HP Dewatering Submersible Pump (FlowTech),Nos,3,60599.19,181797.57,Coimbatore
+PO/2026/1645,2025-08-09,V-1019,BV-111,"3"" Wafer Type Butterfly Valve",Nos,106,5217.48,553052.88,Vadodara
+PO/2026/1646,2025-09-23,FTV-1049,BV-125,"3"" Wafer Type Butterfly Valve",Nos,79,23445.25,1852174.75,Coimbatore
+PO/2026/1647,2025-04-23,V-1001,SP-122,Mechanical Seal Kit Spares Kit,Nos,30,7394.59,221837.7,Coimbatore
+PO/2026/1648,2026-01-24,V-1020,SM-134,7.5 HP Sewage Submersible Pump,Nos,4,18349.52,73398.08,Pune-Bhosari
+PO/2026/1649,2025-09-06,V-1033,FT-1407,1 HP Monoblock Centrifugal Pump (FlowTech),Nos,10,83198.82,831988.2,Pune-Bhosari
+PO/2026/1650,2025-10-16,FTV-1046,CP-163,1 HP Monoblock Centrifugal Pump,Nos,6,77271.6,463629.6,Vadodara
+PO/2026/1651,2026-05-06,V-1026,CP-114,0.5 HP Monoblock Centrifugal Pump,Nos,10,99550.7,995507.0,Pune-Bhosari
+PO/2026/1652,2026-02-10,V-1031,FT-1435,15 HP Process Centrifugal Pump (FlowTech),Nos,18,14025.43,252457.74,Vadodara
+PO/2026/1653,2026-03-28,V-1025,CP-114,0.5 HP Monoblock Centrifugal Pump,Nos,14,101725.7,1424159.8,Vadodara
+PO/2026/1654,2026-07-01,V-1013,SM-127,5 HP Dewatering Submersible Pump,Nos,2,70325.83,140651.66,Vadodara
+PO/2026/1655,2026-04-27,V-1037,CP-137,5 HP End-Suction Centrifugal Pump,Nos,4,147027.78,588111.12,Vadodara
+PO/2026/1656,2025-08-12,V-1002,CP-152,7.5 HP Split-Case Centrifugal Pump,Nos,3,83968.39,251905.17,Vadodara
+PO/2026/1657,2026-03-12,V-1017,BV-118,"6"" Lug Type Butterfly Valve",Nos,97,13556.55,1314985.35,Vadodara
+PO/2026/1658,2026-05-17,V-1007,GV-135,"8"" SS Class 300 Gate Valve",Nos,79,13440.99,1061838.21,Coimbatore
+PO/2026/1659,2025-08-11,V-1026,BV-115,"4"" Wafer Type Butterfly Valve",Nos,80,12629.72,1010377.6,Vadodara

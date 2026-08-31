@@ -1,0 +1,23 @@
+{
+  "attempt_id": "ATTEMPT-002",
+  "timestamp_utc": "2026-08-31T16:44:05.189222+00:00",
+  "hypothesis": "The evaluator expects concise canonical answer strings rather than verbose explanations; governing_source resolution is already 100% correct.",
+  "purpose": "Test concise canonical string matching against hidden competition evaluator.",
+  "reconciliation_sha256": "7b1075b7adf90815f4d767cef2b6235f2df355f77501e48b4cbd38cced0e9801",
+  "knowledge_sha256": "25ae05870f9ba5e6c18fab5adf95a77baf7bce12d43cec583fc6b3954af6c350",
+  "files": {
+    "reconciliation_submission.csv": {
+      "rows": 250,
+      "sha256": "7b1075b7adf90815f4d767cef2b6235f2df355f77501e48b4cbd38cced0e9801"
+    },
+    "knowledge_submission.csv": {
+      "rows": 12,
+      "sha256": "25ae05870f9ba5e6c18fab5adf95a77baf7bce12d43cec583fc6b3954af6c350"
+    }
+  },
+  "score_result": {
+    "composite_score": null,
+    "breakdown": null,
+    "notes": "Candidate prepared for Attempt 002 submission."
+  }
+}
